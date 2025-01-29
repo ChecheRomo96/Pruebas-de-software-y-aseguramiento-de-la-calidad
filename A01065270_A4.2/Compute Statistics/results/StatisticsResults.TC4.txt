@@ -1,0 +1,6 @@
+Mean               : 149.0027
+Median             : 147.7500
+Mode               : 123.75
+Variance           : 17007.9208
+Standard Deviation : 130.4144
+Time               : 0.009537 s

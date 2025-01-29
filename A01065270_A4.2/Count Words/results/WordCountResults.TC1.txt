@@ -1,0 +1,297 @@
+conservative	2
+
+Execution Time: 0.0003 seconds
+mother	1
+
+Execution Time: 0.0003 seconds
+tions	1
+
+Execution Time: 0.0003 seconds
+pin	1
+
+Execution Time: 0.0003 seconds
+sure	1
+
+Execution Time: 0.0003 seconds
+regulatory	1
+
+Execution Time: 0.0003 seconds
+shower	1
+
+Execution Time: 0.0003 seconds
+uni	1
+
+Execution Time: 0.0003 seconds
+dial	1
+
+Execution Time: 0.0003 seconds
+photography	1
+
+Execution Time: 0.0003 seconds
+buying	1
+
+Execution Time: 0.0003 seconds
+firms	1
+
+Execution Time: 0.0003 seconds
+nba	1
+
+Execution Time: 0.0003 seconds
+father	1
+
+Execution Time: 0.0003 seconds
+championship	1
+
+Execution Time: 0.0003 seconds
+vagina	1
+
+Execution Time: 0.0003 seconds
+fonts	1
+
+Execution Time: 0.0003 seconds
+sparc	1
+
+Execution Time: 0.0003 seconds
+explorer	1
+
+Execution Time: 0.0003 seconds
+rl	1
+
+Execution Time: 0.0003 seconds
+shadow	1
+
+Execution Time: 0.0003 seconds
+danish	1
+
+Execution Time: 0.0003 seconds
+seed	1
+
+Execution Time: 0.0003 seconds
+hiking	1
+
+Execution Time: 0.0003 seconds
+instrumentation	1
+
+Execution Time: 0.0003 seconds
+introduces	1
+
+Execution Time: 0.0003 seconds
+kinda	1
+
+Execution Time: 0.0003 seconds
+nor	1
+
+Execution Time: 0.0003 seconds
+newer	1
+
+Execution Time: 0.0003 seconds
+peter	1
+
+Execution Time: 0.0003 seconds
+contamination	1
+
+Execution Time: 0.0003 seconds
+matters	1
+
+Execution Time: 0.0003 seconds
+bedding	1
+
+Execution Time: 0.0003 seconds
+achievement	1
+
+Execution Time: 0.0003 seconds
+password	1
+
+Execution Time: 0.0003 seconds
+webcast	1
+
+Execution Time: 0.0003 seconds
+locks	1
+
+Execution Time: 0.0003 seconds
+cove	1
+
+Execution Time: 0.0003 seconds
+taxes	1
+
+Execution Time: 0.0003 seconds
+could	1
+
+Execution Time: 0.0003 seconds
+pct	1
+
+Execution Time: 0.0003 seconds
+adequate	1
+
+Execution Time: 0.0003 seconds
+nightmare	1
+
+Execution Time: 0.0003 seconds
+marathon	1
+
+Execution Time: 0.0003 seconds
+permission	1
+
+Execution Time: 0.0003 seconds
+cartridge	1
+
+Execution Time: 0.0003 seconds
+clear	1
+
+Execution Time: 0.0003 seconds
+drum	1
+
+Execution Time: 0.0003 seconds
+trained	1
+
+Execution Time: 0.0003 seconds
+p	1
+
+Execution Time: 0.0003 seconds
+manufacturer	1
+
+Execution Time: 0.0003 seconds
+leisure	1
+
+Execution Time: 0.0003 seconds
+media	1
+
+Execution Time: 0.0003 seconds
+journey	1
+
+Execution Time: 0.0003 seconds
+anal	1
+
+Execution Time: 0.0003 seconds
+teaches	1
+
+Execution Time: 0.0003 seconds
+customized	1
+
+Execution Time: 0.0003 seconds
+oakland	1
+
+Execution Time: 0.0003 seconds
+louis	1
+
+Execution Time: 0.0003 seconds
+tab	1
+
+Execution Time: 0.0003 seconds
+consistent	1
+
+Execution Time: 0.0003 seconds
+enhanced	1
+
+Execution Time: 0.0003 seconds
+liable	1
+
+Execution Time: 0.0003 seconds
+ebony	1
+
+Execution Time: 0.0003 seconds
+wan	1
+
+Execution Time: 0.0003 seconds
+pubmed	1
+
+Execution Time: 0.0003 seconds
+math	1
+
+Execution Time: 0.0003 seconds
+tea	1
+
+Execution Time: 0.0003 seconds
+craps	1
+
+Execution Time: 0.0003 seconds
+gothic	1
+
+Execution Time: 0.0003 seconds
+permissions	1
+
+Execution Time: 0.0003 seconds
+recorded	1
+
+Execution Time: 0.0003 seconds
+cgi	1
+
+Execution Time: 0.0003 seconds
+confirm	1
+
+Execution Time: 0.0003 seconds
+hyundai	1
+
+Execution Time: 0.0003 seconds
+exhaust	1
+
+Execution Time: 0.0003 seconds
+malpractice	1
+
+Execution Time: 0.0003 seconds
+pens	1
+
+Execution Time: 0.0003 seconds
+potentially	1
+
+Execution Time: 0.0003 seconds
+glenn	1
+
+Execution Time: 0.0003 seconds
+scoring	1
+
+Execution Time: 0.0003 seconds
+andrews	1
+
+Execution Time: 0.0003 seconds
+assessed	1
+
+Execution Time: 0.0003 seconds
+adventures	1
+
+Execution Time: 0.0003 seconds
+meals	1
+
+Execution Time: 0.0003 seconds
+mortality	1
+
+Execution Time: 0.0003 seconds
+club	1
+
+Execution Time: 0.0003 seconds
+mon	1
+
+Execution Time: 0.0003 seconds
+comm	1
+
+Execution Time: 0.0003 seconds
+blues	1
+
+Execution Time: 0.0003 seconds
+collect	1
+
+Execution Time: 0.0003 seconds
+lies	1
+
+Execution Time: 0.0003 seconds
+seats	1
+
+Execution Time: 0.0003 seconds
+worse	1
+
+Execution Time: 0.0003 seconds
+guestbook	1
+
+Execution Time: 0.0003 seconds
+influences	1
+
+Execution Time: 0.0003 seconds
+kodak	1
+
+Execution Time: 0.0003 seconds
+significance	1
+
+Execution Time: 0.0003 seconds
+coastal	1
+
+Execution Time: 0.0003 seconds

@@ -1,0 +1,401 @@
+480 -> Binary: 111100000, Hexadecimal: 1E0
+ 59 -> Binary:    111011, Hexadecimal:  3B
+331 -> Binary: 101001011, Hexadecimal: 14B
+416 -> Binary: 110100000, Hexadecimal: 1A0
+410 -> Binary: 110011010, Hexadecimal: 19A
+383 -> Binary: 101111111, Hexadecimal: 17F
+240 -> Binary:  11110000, Hexadecimal:  F0
+393 -> Binary: 110001001, Hexadecimal: 189
+342 -> Binary: 101010110, Hexadecimal: 156
+449 -> Binary: 111000001, Hexadecimal: 1C1
+487 -> Binary: 111100111, Hexadecimal: 1E7
+487 -> Binary: 111100111, Hexadecimal: 1E7
+156 -> Binary:  10011100, Hexadecimal:  9C
+461 -> Binary: 111001101, Hexadecimal: 1CD
+301 -> Binary: 100101101, Hexadecimal: 12D
+  2 -> Binary:        10, Hexadecimal:   2
+467 -> Binary: 111010011, Hexadecimal: 1D3
+ 81 -> Binary:   1010001, Hexadecimal:  51
+442 -> Binary: 110111010, Hexadecimal: 1BA
+ 19 -> Binary:     10011, Hexadecimal:  13
+368 -> Binary: 101110000, Hexadecimal: 170
+  7 -> Binary:       111, Hexadecimal:   7
+ 77 -> Binary:   1001101, Hexadecimal:  4D
+205 -> Binary:  11001101, Hexadecimal:  CD
+ 19 -> Binary:     10011, Hexadecimal:  13
+448 -> Binary: 111000000, Hexadecimal: 1C0
+ 37 -> Binary:    100101, Hexadecimal:  25
+290 -> Binary: 100100010, Hexadecimal: 122
+ 63 -> Binary:    111111, Hexadecimal:  3F
+384 -> Binary: 110000000, Hexadecimal: 180
+135 -> Binary:  10000111, Hexadecimal:  87
+198 -> Binary:  11000110, Hexadecimal:  C6
+ 56 -> Binary:    111000, Hexadecimal:  38
+ 11 -> Binary:      1011, Hexadecimal:   B
+368 -> Binary: 101110000, Hexadecimal: 170
+  8 -> Binary:      1000, Hexadecimal:   8
+232 -> Binary:  11101000, Hexadecimal:  E8
+294 -> Binary: 100100110, Hexadecimal: 126
+198 -> Binary:  11000110, Hexadecimal:  C6
+210 -> Binary:  11010010, Hexadecimal:  D2
+178 -> Binary:  10110010, Hexadecimal:  B2
+270 -> Binary: 100001110, Hexadecimal: 10E
+454 -> Binary: 111000110, Hexadecimal: 1C6
+330 -> Binary: 101001010, Hexadecimal: 14A
+473 -> Binary: 111011001, Hexadecimal: 1D9
+118 -> Binary:   1110110, Hexadecimal:  76
+359 -> Binary: 101100111, Hexadecimal: 167
+365 -> Binary: 101101101, Hexadecimal: 16D
+189 -> Binary:  10111101, Hexadecimal:  BD
+ 76 -> Binary:   1001100, Hexadecimal:  4C
+229 -> Binary:  11100101, Hexadecimal:  E5
+ 94 -> Binary:   1011110, Hexadecimal:  5E
+215 -> Binary:  11010111, Hexadecimal:  D7
+ 89 -> Binary:   1011001, Hexadecimal:  59
+ 13 -> Binary:      1101, Hexadecimal:   D
+488 -> Binary: 111101000, Hexadecimal: 1E8
+ 64 -> Binary:   1000000, Hexadecimal:  40
+223 -> Binary:  11011111, Hexadecimal:  DF
+ 11 -> Binary:      1011, Hexadecimal:   B
+ 71 -> Binary:   1000111, Hexadecimal:  47
+142 -> Binary:  10001110, Hexadecimal:  8E
+136 -> Binary:  10001000, Hexadecimal:  88
+157 -> Binary:  10011101, Hexadecimal:  9D
+386 -> Binary: 110000010, Hexadecimal: 182
+100 -> Binary:   1100100, Hexadecimal:  64
+499 -> Binary: 111110011, Hexadecimal: 1F3
+137 -> Binary:  10001001, Hexadecimal:  89
+499 -> Binary: 111110011, Hexadecimal: 1F3
+ 31 -> Binary:     11111, Hexadecimal:  1F
+169 -> Binary:  10101001, Hexadecimal:  A9
+ 16 -> Binary:     10000, Hexadecimal:  10
+457 -> Binary: 111001001, Hexadecimal: 1C9
+231 -> Binary:  11100111, Hexadecimal:  E7
+356 -> Binary: 101100100, Hexadecimal: 164
+ 56 -> Binary:    111000, Hexadecimal:  38
+272 -> Binary: 100010000, Hexadecimal: 110
+106 -> Binary:   1101010, Hexadecimal:  6A
+152 -> Binary:  10011000, Hexadecimal:  98
+391 -> Binary: 110000111, Hexadecimal: 187
+439 -> Binary: 110110111, Hexadecimal: 1B7
+107 -> Binary:   1101011, Hexadecimal:  6B
+ 69 -> Binary:   1000101, Hexadecimal:  45
+141 -> Binary:  10001101, Hexadecimal:  8D
+246 -> Binary:  11110110, Hexadecimal:  F6
+375 -> Binary: 101110111, Hexadecimal: 177
+409 -> Binary: 110011001, Hexadecimal: 199
+339 -> Binary: 101010011, Hexadecimal: 153
+104 -> Binary:   1101000, Hexadecimal:  68
+222 -> Binary:  11011110, Hexadecimal:  DE
+481 -> Binary: 111100001, Hexadecimal: 1E1
+405 -> Binary: 110010101, Hexadecimal: 195
+357 -> Binary: 101100101, Hexadecimal: 165
+365 -> Binary: 101101101, Hexadecimal: 16D
+466 -> Binary: 111010010, Hexadecimal: 1D2
+368 -> Binary: 101110000, Hexadecimal: 170
+269 -> Binary: 100001101, Hexadecimal: 10D
+478 -> Binary: 111011110, Hexadecimal: 1DE
+267 -> Binary: 100001011, Hexadecimal: 10B
+154 -> Binary:  10011010, Hexadecimal:  9A
+277 -> Binary: 100010101, Hexadecimal: 115
+312 -> Binary: 100111000, Hexadecimal: 138
+380 -> Binary: 101111100, Hexadecimal: 17C
+211 -> Binary:  11010011, Hexadecimal:  D3
+ 46 -> Binary:    101110, Hexadecimal:  2E
+  3 -> Binary:        11, Hexadecimal:   3
+363 -> Binary: 101101011, Hexadecimal: 16B
+399 -> Binary: 110001111, Hexadecimal: 18F
+333 -> Binary: 101001101, Hexadecimal: 14D
+ 64 -> Binary:   1000000, Hexadecimal:  40
+154 -> Binary:  10011010, Hexadecimal:  9A
+328 -> Binary: 101001000, Hexadecimal: 148
+408 -> Binary: 110011000, Hexadecimal: 198
+411 -> Binary: 110011011, Hexadecimal: 19B
+278 -> Binary: 100010110, Hexadecimal: 116
+ 46 -> Binary:    101110, Hexadecimal:  2E
+170 -> Binary:  10101010, Hexadecimal:  AA
+239 -> Binary:  11101111, Hexadecimal:  EF
+474 -> Binary: 111011010, Hexadecimal: 1DA
+ 12 -> Binary:      1100, Hexadecimal:   C
+285 -> Binary: 100011101, Hexadecimal: 11D
+134 -> Binary:  10000110, Hexadecimal:  86
+260 -> Binary: 100000100, Hexadecimal: 104
+161 -> Binary:  10100001, Hexadecimal:  A1
+251 -> Binary:  11111011, Hexadecimal:  FB
+193 -> Binary:  11000001, Hexadecimal:  C1
+464 -> Binary: 111010000, Hexadecimal: 1D0
+325 -> Binary: 101000101, Hexadecimal: 145
+452 -> Binary: 111000100, Hexadecimal: 1C4
+ 30 -> Binary:     11110, Hexadecimal:  1E
+255 -> Binary:  11111111, Hexadecimal:  FF
+297 -> Binary: 100101001, Hexadecimal: 129
+ 23 -> Binary:     10111, Hexadecimal:  17
+375 -> Binary: 101110111, Hexadecimal: 177
+366 -> Binary: 101101110, Hexadecimal: 16E
+199 -> Binary:  11000111, Hexadecimal:  C7
+333 -> Binary: 101001101, Hexadecimal: 14D
+379 -> Binary: 101111011, Hexadecimal: 17B
+273 -> Binary: 100010001, Hexadecimal: 111
+405 -> Binary: 110010101, Hexadecimal: 195
+ 64 -> Binary:   1000000, Hexadecimal:  40
+300 -> Binary: 100101100, Hexadecimal: 12C
+ 19 -> Binary:     10011, Hexadecimal:  13
+194 -> Binary:  11000010, Hexadecimal:  C2
+207 -> Binary:  11001111, Hexadecimal:  CF
+313 -> Binary: 100111001, Hexadecimal: 139
+298 -> Binary: 100101010, Hexadecimal: 12A
+172 -> Binary:  10101100, Hexadecimal:  AC
+423 -> Binary: 110100111, Hexadecimal: 1A7
+ 84 -> Binary:   1010100, Hexadecimal:  54
+132 -> Binary:  10000100, Hexadecimal:  84
+396 -> Binary: 110001100, Hexadecimal: 18C
+252 -> Binary:  11111100, Hexadecimal:  FC
+440 -> Binary: 110111000, Hexadecimal: 1B8
+234 -> Binary:  11101010, Hexadecimal:  EA
+275 -> Binary: 100010011, Hexadecimal: 113
+325 -> Binary: 101000101, Hexadecimal: 145
+ 30 -> Binary:     11110, Hexadecimal:  1E
+101 -> Binary:   1100101, Hexadecimal:  65
+246 -> Binary:  11110110, Hexadecimal:  F6
+166 -> Binary:  10100110, Hexadecimal:  A6
+225 -> Binary:  11100001, Hexadecimal:  E1
+299 -> Binary: 100101011, Hexadecimal: 12B
+ 39 -> Binary:    100111, Hexadecimal:  27
+477 -> Binary: 111011101, Hexadecimal: 1DD
+342 -> Binary: 101010110, Hexadecimal: 156
+ 11 -> Binary:      1011, Hexadecimal:   B
+436 -> Binary: 110110100, Hexadecimal: 1B4
+166 -> Binary:  10100110, Hexadecimal:  A6
+241 -> Binary:  11110001, Hexadecimal:  F1
+273 -> Binary: 100010001, Hexadecimal: 111
+282 -> Binary: 100011010, Hexadecimal: 11A
+ 96 -> Binary:   1100000, Hexadecimal:  60
+370 -> Binary: 101110010, Hexadecimal: 172
+459 -> Binary: 111001011, Hexadecimal: 1CB
+ 22 -> Binary:     10110, Hexadecimal:  16
+ 89 -> Binary:   1011001, Hexadecimal:  59
+466 -> Binary: 111010010, Hexadecimal: 1D2
+268 -> Binary: 100001100, Hexadecimal: 10C
+ 52 -> Binary:    110100, Hexadecimal:  34
+341 -> Binary: 101010101, Hexadecimal: 155
+346 -> Binary: 101011010, Hexadecimal: 15A
+433 -> Binary: 110110001, Hexadecimal: 1B1
+170 -> Binary:  10101010, Hexadecimal:  AA
+190 -> Binary:  10111110, Hexadecimal:  BE
+ 72 -> Binary:   1001000, Hexadecimal:  48
+204 -> Binary:  11001100, Hexadecimal:  CC
+ 38 -> Binary:    100110, Hexadecimal:  26
+276 -> Binary: 100010100, Hexadecimal: 114
+393 -> Binary: 110001001, Hexadecimal: 189
+379 -> Binary: 101111011, Hexadecimal: 17B
+213 -> Binary:  11010101, Hexadecimal:  D5
+ 96 -> Binary:   1100000, Hexadecimal:  60
+207 -> Binary:  11001111, Hexadecimal:  CF
+464 -> Binary: 111010000, Hexadecimal: 1D0
+ 52 -> Binary:    110100, Hexadecimal:  34
+166 -> Binary:  10100110, Hexadecimal:  A6
+107 -> Binary:   1101011, Hexadecimal:  6B
+256 -> Binary: 100000000, Hexadecimal: 100
+159 -> Binary:  10011111, Hexadecimal:  9F
+259 -> Binary: 100000011, Hexadecimal: 103
+211 -> Binary:  11010011, Hexadecimal:  D3
+281 -> Binary: 100011001, Hexadecimal: 119
+241 -> Binary:  11110001, Hexadecimal:  F1
+138 -> Binary:  10001010, Hexadecimal:  8A
+497 -> Binary: 111110001, Hexadecimal: 1F1
+168 -> Binary:  10101000, Hexadecimal:  A8
+137 -> Binary:  10001001, Hexadecimal:  89
+482 -> Binary: 111100010, Hexadecimal: 1E2
+105 -> Binary:   1101001, Hexadecimal:  69
+369 -> Binary: 101110001, Hexadecimal: 171
+163 -> Binary:  10100011, Hexadecimal:  A3
+415 -> Binary: 110011111, Hexadecimal: 19F
+330 -> Binary: 101001010, Hexadecimal: 14A
+149 -> Binary:  10010101, Hexadecimal:  95
+414 -> Binary: 110011110, Hexadecimal: 19E
+ 76 -> Binary:   1001100, Hexadecimal:  4C
+448 -> Binary: 111000000, Hexadecimal: 1C0
+215 -> Binary:  11010111, Hexadecimal:  D7
+447 -> Binary: 110111111, Hexadecimal: 1BF
+375 -> Binary: 101110111, Hexadecimal: 177
+ 56 -> Binary:    111000, Hexadecimal:  38
+175 -> Binary:  10101111, Hexadecimal:  AF
+228 -> Binary:  11100100, Hexadecimal:  E4
+268 -> Binary: 100001100, Hexadecimal: 10C
+278 -> Binary: 100010110, Hexadecimal: 116
+350 -> Binary: 101011110, Hexadecimal: 15E
+215 -> Binary:  11010111, Hexadecimal:  D7
+ 23 -> Binary:     10111, Hexadecimal:  17
+156 -> Binary:  10011100, Hexadecimal:  9C
+348 -> Binary: 101011100, Hexadecimal: 15C
+163 -> Binary:  10100011, Hexadecimal:  A3
+356 -> Binary: 101100100, Hexadecimal: 164
+177 -> Binary:  10110001, Hexadecimal:  B1
+249 -> Binary:  11111001, Hexadecimal:  F9
+148 -> Binary:  10010100, Hexadecimal:  94
+370 -> Binary: 101110010, Hexadecimal: 172
+ 96 -> Binary:   1100000, Hexadecimal:  60
+ 86 -> Binary:   1010110, Hexadecimal:  56
+148 -> Binary:  10010100, Hexadecimal:  94
+ 76 -> Binary:   1001100, Hexadecimal:  4C
+ 47 -> Binary:    101111, Hexadecimal:  2F
+359 -> Binary: 101100111, Hexadecimal: 167
+203 -> Binary:  11001011, Hexadecimal:  CB
+  1 -> Binary:         1, Hexadecimal:   1
+302 -> Binary: 100101110, Hexadecimal: 12E
+ 27 -> Binary:     11011, Hexadecimal:  1B
+ 68 -> Binary:   1000100, Hexadecimal:  44
+327 -> Binary: 101000111, Hexadecimal: 147
+123 -> Binary:   1111011, Hexadecimal:  7B
+290 -> Binary: 100100010, Hexadecimal: 122
+278 -> Binary: 100010110, Hexadecimal: 116
+148 -> Binary:  10010100, Hexadecimal:  94
+220 -> Binary:  11011100, Hexadecimal:  DC
+186 -> Binary:  10111010, Hexadecimal:  BA
+494 -> Binary: 111101110, Hexadecimal: 1EE
+430 -> Binary: 110101110, Hexadecimal: 1AE
+290 -> Binary: 100100010, Hexadecimal: 122
+254 -> Binary:  11111110, Hexadecimal:  FE
+ 46 -> Binary:    101110, Hexadecimal:  2E
+117 -> Binary:   1110101, Hexadecimal:  75
+486 -> Binary: 111100110, Hexadecimal: 1E6
+170 -> Binary:  10101010, Hexadecimal:  AA
+433 -> Binary: 110110001, Hexadecimal: 1B1
+286 -> Binary: 100011110, Hexadecimal: 11E
+ 14 -> Binary:      1110, Hexadecimal:   E
+195 -> Binary:  11000011, Hexadecimal:  C3
+364 -> Binary: 101101100, Hexadecimal: 16C
+450 -> Binary: 111000010, Hexadecimal: 1C2
+ 40 -> Binary:    101000, Hexadecimal:  28
+ 41 -> Binary:    101001, Hexadecimal:  29
+369 -> Binary: 101110001, Hexadecimal: 171
+153 -> Binary:  10011001, Hexadecimal:  99
+450 -> Binary: 111000010, Hexadecimal: 1C2
+500 -> Binary: 111110100, Hexadecimal: 1F4
+334 -> Binary: 101001110, Hexadecimal: 14E
+ 15 -> Binary:      1111, Hexadecimal:   F
+ 50 -> Binary:    110010, Hexadecimal:  32
+ 84 -> Binary:   1010100, Hexadecimal:  54
+466 -> Binary: 111010010, Hexadecimal: 1D2
+  9 -> Binary:      1001, Hexadecimal:   9
+364 -> Binary: 101101100, Hexadecimal: 16C
+304 -> Binary: 100110000, Hexadecimal: 130
+286 -> Binary: 100011110, Hexadecimal: 11E
+ 14 -> Binary:      1110, Hexadecimal:   E
+285 -> Binary: 100011101, Hexadecimal: 11D
+272 -> Binary: 100010000, Hexadecimal: 110
+441 -> Binary: 110111001, Hexadecimal: 1B9
+239 -> Binary:  11101111, Hexadecimal:  EF
+341 -> Binary: 101010101, Hexadecimal: 155
+ 18 -> Binary:     10010, Hexadecimal:  12
+ 80 -> Binary:   1010000, Hexadecimal:  50
+ 13 -> Binary:      1101, Hexadecimal:   D
+120 -> Binary:   1111000, Hexadecimal:  78
+277 -> Binary: 100010101, Hexadecimal: 115
+420 -> Binary: 110100100, Hexadecimal: 1A4
+ 73 -> Binary:   1001001, Hexadecimal:  49
+488 -> Binary: 111101000, Hexadecimal: 1E8
+393 -> Binary: 110001001, Hexadecimal: 189
+277 -> Binary: 100010101, Hexadecimal: 115
+190 -> Binary:  10111110, Hexadecimal:  BE
+139 -> Binary:  10001011, Hexadecimal:  8B
+331 -> Binary: 101001011, Hexadecimal: 14B
+268 -> Binary: 100001100, Hexadecimal: 10C
+390 -> Binary: 110000110, Hexadecimal: 186
+282 -> Binary: 100011010, Hexadecimal: 11A
+ 63 -> Binary:    111111, Hexadecimal:  3F
+332 -> Binary: 101001100, Hexadecimal: 14C
+211 -> Binary:  11010011, Hexadecimal:  D3
+109 -> Binary:   1101101, Hexadecimal:  6D
+385 -> Binary: 110000001, Hexadecimal: 181
+ 27 -> Binary:     11011, Hexadecimal:  1B
+218 -> Binary:  11011010, Hexadecimal:  DA
+499 -> Binary: 111110011, Hexadecimal: 1F3
+357 -> Binary: 101100101, Hexadecimal: 165
+168 -> Binary:  10101000, Hexadecimal:  A8
+395 -> Binary: 110001011, Hexadecimal: 18B
+294 -> Binary: 100100110, Hexadecimal: 126
+393 -> Binary: 110001001, Hexadecimal: 189
+ 24 -> Binary:     11000, Hexadecimal:  18
+206 -> Binary:  11001110, Hexadecimal:  CE
+131 -> Binary:  10000011, Hexadecimal:  83
+  5 -> Binary:       101, Hexadecimal:   5
+154 -> Binary:  10011010, Hexadecimal:  9A
+462 -> Binary: 111001110, Hexadecimal: 1CE
+155 -> Binary:  10011011, Hexadecimal:  9B
+409 -> Binary: 110011001, Hexadecimal: 199
+182 -> Binary:  10110110, Hexadecimal:  B6
+149 -> Binary:  10010101, Hexadecimal:  95
+170 -> Binary:  10101010, Hexadecimal:  AA
+316 -> Binary: 100111100, Hexadecimal: 13C
+413 -> Binary: 110011101, Hexadecimal: 19D
+198 -> Binary:  11000110, Hexadecimal:  C6
+298 -> Binary: 100101010, Hexadecimal: 12A
+236 -> Binary:  11101100, Hexadecimal:  EC
+403 -> Binary: 110010011, Hexadecimal: 193
+160 -> Binary:  10100000, Hexadecimal:  A0
+365 -> Binary: 101101101, Hexadecimal: 16D
+ 58 -> Binary:    111010, Hexadecimal:  3A
+ 52 -> Binary:    110100, Hexadecimal:  34
+110 -> Binary:   1101110, Hexadecimal:  6E
+ 58 -> Binary:    111010, Hexadecimal:  3A
+ 60 -> Binary:    111100, Hexadecimal:  3C
+157 -> Binary:  10011101, Hexadecimal:  9D
+322 -> Binary: 101000010, Hexadecimal: 142
+413 -> Binary: 110011101, Hexadecimal: 19D
+449 -> Binary: 111000001, Hexadecimal: 1C1
+ 71 -> Binary:   1000111, Hexadecimal:  47
+325 -> Binary: 101000101, Hexadecimal: 145
+  3 -> Binary:        11, Hexadecimal:   3
+115 -> Binary:   1110011, Hexadecimal:  73
+152 -> Binary:  10011000, Hexadecimal:  98
+393 -> Binary: 110001001, Hexadecimal: 189
+486 -> Binary: 111100110, Hexadecimal: 1E6
+ 51 -> Binary:    110011, Hexadecimal:  33
+168 -> Binary:  10101000, Hexadecimal:  A8
+424 -> Binary: 110101000, Hexadecimal: 1A8
+250 -> Binary:  11111010, Hexadecimal:  FA
+331 -> Binary: 101001011, Hexadecimal: 14B
+199 -> Binary:  11000111, Hexadecimal:  C7
+213 -> Binary:  11010101, Hexadecimal:  D5
+341 -> Binary: 101010101, Hexadecimal: 155
+105 -> Binary:   1101001, Hexadecimal:  69
+378 -> Binary: 101111010, Hexadecimal: 17A
+250 -> Binary:  11111010, Hexadecimal:  FA
+455 -> Binary: 111000111, Hexadecimal: 1C7
+164 -> Binary:  10100100, Hexadecimal:  A4
+324 -> Binary: 101000100, Hexadecimal: 144
+101 -> Binary:   1100101, Hexadecimal:  65
+447 -> Binary: 110111111, Hexadecimal: 1BF
+367 -> Binary: 101101111, Hexadecimal: 16F
+377 -> Binary: 101111001, Hexadecimal: 179
+179 -> Binary:  10110011, Hexadecimal:  B3
+111 -> Binary:   1101111, Hexadecimal:  6F
+ 18 -> Binary:     10010, Hexadecimal:  12
+102 -> Binary:   1100110, Hexadecimal:  66
+453 -> Binary: 111000101, Hexadecimal: 1C5
+122 -> Binary:   1111010, Hexadecimal:  7A
+357 -> Binary: 101100101, Hexadecimal: 165
+ 14 -> Binary:      1110, Hexadecimal:   E
+455 -> Binary: 111000111, Hexadecimal: 1C7
+191 -> Binary:  10111111, Hexadecimal:  BF
+447 -> Binary: 110111111, Hexadecimal: 1BF
+170 -> Binary:  10101010, Hexadecimal:  AA
+178 -> Binary:  10110010, Hexadecimal:  B2
+130 -> Binary:  10000010, Hexadecimal:  82
+130 -> Binary:  10000010, Hexadecimal:  82
+112 -> Binary:   1110000, Hexadecimal:  70
+412 -> Binary: 110011100, Hexadecimal: 19C
+111 -> Binary:   1101111, Hexadecimal:  6F
+391 -> Binary: 110000111, Hexadecimal: 187
+ 39 -> Binary:    100111, Hexadecimal:  27
+346 -> Binary: 101011010, Hexadecimal: 15A
+337 -> Binary: 101010001, Hexadecimal: 151
+114 -> Binary:   1110010, Hexadecimal:  72
+ 74 -> Binary:   1001010, Hexadecimal:  4A
+  3 -> Binary:        11, Hexadecimal:   3
+481 -> Binary: 111100001, Hexadecimal: 1E1
+384 -> Binary: 110000000, Hexadecimal: 180
+405 -> Binary: 110010101, Hexadecimal: 195
+Invalid data: 405s
+Execution Time: 0.001108 seconds
