@@ -26,42 +26,48 @@ jobs:
         run: |
           pip install -r A01065270_A4.2/requirements.txt || echo "No requirements file found"
 
-      - name: Compute Statistics
+      - name: Compute Statistics Test Case 1
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-
-      - name: Test Case 1
-        run: |
           python computeStatistics.py data/TC1.txt > ../output.log
 
-      - name: Test Case 2
+      - name: Compute Statistics Test Case 2
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC2.txt > ../output.log
 
-      - name: Test Case 3
+      - name: Compute Statistics Test Case 3
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC3.txt > ../output.log
           
-      - name: Test Case 4
+      - name: Compute Statistics Test Case 4
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC4.txt > ../output.log
           
-      - name: Test Case 5
+      - name: Compute Statistics Test Case 5
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC5.txt > ../output.log
           
-      - name: Test Case 6
+      - name: Compute Statistics Test Case 6
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC6.txt > ../output.log
           
-      - name: Test Case 7
+      - name: Compute Statistics Test Case 7
         run: |
+          cd A01065270_A4.2
+          cd "Compute Statistics"
           python computeStatistics.py data/TC7.txt > ../output.log
           
-      - name: exit subdir
-        run: |
-          cd ..
         
 
       - name: Upload Output as Artifact
