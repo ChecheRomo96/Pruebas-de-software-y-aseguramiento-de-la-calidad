@@ -3,4 +3,4 @@ Median             : 249.0000
 Mode               : 94.0
 Variance           : 21117.2775
 Standard Deviation : 145.3178
-Time               : 0.008827 s
+Time               : 0.008667 s

@@ -1,8 +1,8 @@
 """
 convert_numbers.py
 
-This script reads a file containing numbers and converts each number 
-to its binary and hexadecimal representations without using built-in 
+This script reads a file containing numbers and converts each number
+to its binary and hexadecimal representations without using built-in
 conversion functions.
 
 Usage:
@@ -13,12 +13,13 @@ Output:
 """
 
 import sys
+import os
 import time
 import math
 
 
 def to_binary(n):
-    """Convert a number to binary representation without built-in functions."""
+    """Convert a number to binary representation."""
     if n == 0:
         return "0"
     binary = ""
@@ -29,7 +30,7 @@ def to_binary(n):
 
 
 def to_hexadecimal(n):
-    """Convert a number to hexadecimal representation without built-in functions."""
+    """Convert a number to hexadecimal representation."""
     hex_digits = "0123456789ABCDEF"
     if n == 0:
         return "0"
@@ -50,7 +51,7 @@ def process_file(input_file):
     Generates:
         A text file 'conversion_results.txt' with formatted results.
     """
-    output_file = "conversion_results.txt"
+    output_file = f"results/ConversionResults.{os.path.basename(input_file)}"
     start_time = time.time()
 
     try:
@@ -69,7 +70,8 @@ def process_file(input_file):
     max_width_hex = int(math.log(max_number, 16)) + 1 if max_number > 0 else 1
 
     results = [
-        f"{int(line):>{max_width}} -> Binary: {to_binary(int(line)):>{max_width_bin}}, "
+        f"{int(line):>{max_width}}"
+        f" -> Binary: {to_binary(int(line)):>{max_width_bin}}, "
         f"Hexadecimal: {to_hexadecimal(int(line)):>{max_width_hex}}"
         if line.isdigit() else f"Invalid data: {line}"
         for line in lines

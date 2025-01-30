@@ -1,2847 +1,951 @@
 started	3
-
-Execution Time: 0.0014 seconds
 literally	2
-
-Execution Time: 0.0014 seconds
 ringtone	2
-
-Execution Time: 0.0014 seconds
 za	2
-
-Execution Time: 0.0014 seconds
 reached	2
-
-Execution Time: 0.0014 seconds
 crazy	2
-
-Execution Time: 0.0014 seconds
 javascript	2
-
-Execution Time: 0.0014 seconds
 annual	2
-
-Execution Time: 0.0014 seconds
 shown	2
-
-Execution Time: 0.0014 seconds
 supplier	2
-
-Execution Time: 0.0014 seconds
 physical	2
-
-Execution Time: 0.0014 seconds
 data	2
-
-Execution Time: 0.0014 seconds
 fought	2
-
-Execution Time: 0.0014 seconds
 dramatically	2
-
-Execution Time: 0.0014 seconds
 maiden	2
-
-Execution Time: 0.0014 seconds
 contains	2
-
-Execution Time: 0.0014 seconds
 panels	2
-
-Execution Time: 0.0014 seconds
 racial	2
-
-Execution Time: 0.0014 seconds
 charts	2
-
-Execution Time: 0.0014 seconds
 navy	2
-
-Execution Time: 0.0014 seconds
 tired	2
-
-Execution Time: 0.0014 seconds
 farm	2
-
-Execution Time: 0.0014 seconds
 detroit	2
-
-Execution Time: 0.0014 seconds
 plays	2
-
-Execution Time: 0.0014 seconds
 clients	2
-
-Execution Time: 0.0014 seconds
 castle	2
-
-Execution Time: 0.0014 seconds
 onion	2
-
-Execution Time: 0.0014 seconds
 book	2
-
-Execution Time: 0.0014 seconds
 diamonds	2
-
-Execution Time: 0.0014 seconds
 benchmark	2
-
-Execution Time: 0.0014 seconds
 salt	2
-
-Execution Time: 0.0014 seconds
 sparc	2
-
-Execution Time: 0.0014 seconds
 morocco	2
-
-Execution Time: 0.0014 seconds
 metallic	2
-
-Execution Time: 0.0014 seconds
 hampton	2
-
-Execution Time: 0.0014 seconds
 nvidia	2
-
-Execution Time: 0.0014 seconds
 humidity	2
-
-Execution Time: 0.0014 seconds
 renaissance	2
-
-Execution Time: 0.0014 seconds
 coastal	2
-
-Execution Time: 0.0014 seconds
 ddr	2
-
-Execution Time: 0.0014 seconds
 diseases	2
-
-Execution Time: 0.0014 seconds
 confidential	2
-
-Execution Time: 0.0014 seconds
 since	2
-
-Execution Time: 0.0014 seconds
 poor	2
-
-Execution Time: 0.0014 seconds
 consist	2
-
-Execution Time: 0.0014 seconds
 earning	2
-
-Execution Time: 0.0014 seconds
 modification	2
-
-Execution Time: 0.0014 seconds
 fucking	2
-
-Execution Time: 0.0014 seconds
 zimbabwe	2
-
-Execution Time: 0.0014 seconds
 tiffany	2
-
-Execution Time: 0.0014 seconds
 disciplinary	1
-
-Execution Time: 0.0014 seconds
 continues	1
-
-Execution Time: 0.0014 seconds
 parameter	1
-
-Execution Time: 0.0014 seconds
 shift	1
-
-Execution Time: 0.0014 seconds
 enhancement	1
-
-Execution Time: 0.0014 seconds
 man	1
-
-Execution Time: 0.0014 seconds
 starring	1
-
-Execution Time: 0.0014 seconds
 cashiers	1
-
-Execution Time: 0.0014 seconds
 maria	1
-
-Execution Time: 0.0014 seconds
 began	1
-
-Execution Time: 0.0014 seconds
 incredible	1
-
-Execution Time: 0.0014 seconds
 stations	1
-
-Execution Time: 0.0014 seconds
 depends	1
-
-Execution Time: 0.0014 seconds
 staff	1
-
-Execution Time: 0.0014 seconds
 booty	1
-
-Execution Time: 0.0014 seconds
 energy	1
-
-Execution Time: 0.0014 seconds
 grid	1
-
-Execution Time: 0.0014 seconds
 beach	1
-
-Execution Time: 0.0014 seconds
 tools	1
-
-Execution Time: 0.0014 seconds
 ethics	1
-
-Execution Time: 0.0014 seconds
 mod	1
-
-Execution Time: 0.0014 seconds
 preference	1
-
-Execution Time: 0.0014 seconds
 compounds	1
-
-Execution Time: 0.0014 seconds
 fragrances	1
-
-Execution Time: 0.0014 seconds
 macintosh	1
-
-Execution Time: 0.0014 seconds
 microsoft	1
-
-Execution Time: 0.0014 seconds
 month	1
-
-Execution Time: 0.0014 seconds
 beginner	1
-
-Execution Time: 0.0014 seconds
 verse	1
-
-Execution Time: 0.0014 seconds
 draws	1
-
-Execution Time: 0.0014 seconds
 notification	1
-
-Execution Time: 0.0014 seconds
 rolled	1
-
-Execution Time: 0.0014 seconds
 canal	1
-
-Execution Time: 0.0014 seconds
 held	1
-
-Execution Time: 0.0014 seconds
 renewal	1
-
-Execution Time: 0.0014 seconds
 erp	1
-
-Execution Time: 0.0014 seconds
 oval	1
-
-Execution Time: 0.0014 seconds
 own	1
-
-Execution Time: 0.0014 seconds
 cameras	1
-
-Execution Time: 0.0014 seconds
 none	1
-
-Execution Time: 0.0014 seconds
 popular	1
-
-Execution Time: 0.0014 seconds
 corp	1
-
-Execution Time: 0.0014 seconds
 pdf	1
-
-Execution Time: 0.0014 seconds
 phpbb	1
-
-Execution Time: 0.0014 seconds
 drivers	1
-
-Execution Time: 0.0014 seconds
 postal	1
-
-Execution Time: 0.0014 seconds
 curtis	1
-
-Execution Time: 0.0014 seconds
 newsletters	1
-
-Execution Time: 0.0014 seconds
 isolation	1
-
-Execution Time: 0.0014 seconds
 barrel	1
-
-Execution Time: 0.0014 seconds
 languages	1
-
-Execution Time: 0.0014 seconds
 pictures	1
-
-Execution Time: 0.0014 seconds
 favorite	1
-
-Execution Time: 0.0014 seconds
 dishes	1
-
-Execution Time: 0.0014 seconds
 telecharger	1
-
-Execution Time: 0.0014 seconds
 gi	1
-
-Execution Time: 0.0014 seconds
 smooth	1
-
-Execution Time: 0.0014 seconds
 patients	1
-
-Execution Time: 0.0014 seconds
 dsc	1
-
-Execution Time: 0.0014 seconds
 literacy	1
-
-Execution Time: 0.0014 seconds
 token	1
-
-Execution Time: 0.0014 seconds
 samoa	1
-
-Execution Time: 0.0014 seconds
 dvds	1
-
-Execution Time: 0.0014 seconds
 beans	1
-
-Execution Time: 0.0014 seconds
 moss	1
-
-Execution Time: 0.0014 seconds
 check	1
-
-Execution Time: 0.0014 seconds
 appreciate	1
-
-Execution Time: 0.0014 seconds
 opponents	1
-
-Execution Time: 0.0014 seconds
 song	1
-
-Execution Time: 0.0014 seconds
 distinct	1
-
-Execution Time: 0.0014 seconds
 baskets	1
-
-Execution Time: 0.0014 seconds
 beads	1
-
-Execution Time: 0.0014 seconds
 meta	1
-
-Execution Time: 0.0014 seconds
 amazon	1
-
-Execution Time: 0.0014 seconds
 mexican	1
-
-Execution Time: 0.0014 seconds
 merchants	1
-
-Execution Time: 0.0014 seconds
 checklist	1
-
-Execution Time: 0.0014 seconds
 deborah	1
-
-Execution Time: 0.0014 seconds
 adjustable	1
-
-Execution Time: 0.0014 seconds
 etc	1
-
-Execution Time: 0.0014 seconds
 nu	1
-
-Execution Time: 0.0014 seconds
 im	1
-
-Execution Time: 0.0014 seconds
 company	1
-
-Execution Time: 0.0014 seconds
 with	1
-
-Execution Time: 0.0014 seconds
 pubs	1
-
-Execution Time: 0.0014 seconds
 worker	1
-
-Execution Time: 0.0014 seconds
 engineering	1
-
-Execution Time: 0.0014 seconds
 based	1
-
-Execution Time: 0.0014 seconds
 sake	1
-
-Execution Time: 0.0014 seconds
 cycles	1
-
-Execution Time: 0.0014 seconds
 consoles	1
-
-Execution Time: 0.0014 seconds
 cholesterol	1
-
-Execution Time: 0.0014 seconds
 oecd	1
-
-Execution Time: 0.0014 seconds
 stays	1
-
-Execution Time: 0.0014 seconds
 just	1
-
-Execution Time: 0.0014 seconds
 pose	1
-
-Execution Time: 0.0014 seconds
 delaware	1
-
-Execution Time: 0.0014 seconds
 ieee	1
-
-Execution Time: 0.0014 seconds
 ge	1
-
-Execution Time: 0.0014 seconds
 prefers	1
-
-Execution Time: 0.0014 seconds
 folder	1
-
-Execution Time: 0.0014 seconds
 bio	1
-
-Execution Time: 0.0014 seconds
 logging	1
-
-Execution Time: 0.0014 seconds
 demographic	1
-
-Execution Time: 0.0014 seconds
 dts	1
-
-Execution Time: 0.0014 seconds
 dependence	1
-
-Execution Time: 0.0014 seconds
 simple	1
-
-Execution Time: 0.0014 seconds
 brooklyn	1
-
-Execution Time: 0.0014 seconds
 admin	1
-
-Execution Time: 0.0014 seconds
 gd	1
-
-Execution Time: 0.0014 seconds
 warning	1
-
-Execution Time: 0.0014 seconds
 diffs	1
-
-Execution Time: 0.0014 seconds
 discovered	1
-
-Execution Time: 0.0014 seconds
 adolescent	1
-
-Execution Time: 0.0014 seconds
 regression	1
-
-Execution Time: 0.0014 seconds
 dinner	1
-
-Execution Time: 0.0014 seconds
 albuquerque	1
-
-Execution Time: 0.0014 seconds
 showed	1
-
-Execution Time: 0.0014 seconds
 variance	1
-
-Execution Time: 0.0014 seconds
 vacancies	1
-
-Execution Time: 0.0014 seconds
 metallica	1
-
-Execution Time: 0.0014 seconds
 liable	1
-
-Execution Time: 0.0014 seconds
 spending	1
-
-Execution Time: 0.0014 seconds
 residential	1
-
-Execution Time: 0.0014 seconds
 hosts	1
-
-Execution Time: 0.0014 seconds
 scanned	1
-
-Execution Time: 0.0014 seconds
 studies	1
-
-Execution Time: 0.0014 seconds
 cuisine	1
-
-Execution Time: 0.0014 seconds
 reviewing	1
-
-Execution Time: 0.0014 seconds
 commands	1
-
-Execution Time: 0.0014 seconds
 gtk	1
-
-Execution Time: 0.0014 seconds
 roger	1
-
-Execution Time: 0.0014 seconds
 killed	1
-
-Execution Time: 0.0014 seconds
 contrary	1
-
-Execution Time: 0.0014 seconds
 queensland	1
-
-Execution Time: 0.0014 seconds
 deferred	1
-
-Execution Time: 0.0014 seconds
 dd	1
-
-Execution Time: 0.0014 seconds
 syndicate	1
-
-Execution Time: 0.0014 seconds
 hindu	1
-
-Execution Time: 0.0014 seconds
 cabinet	1
-
-Execution Time: 0.0014 seconds
 stretch	1
-
-Execution Time: 0.0014 seconds
 julian	1
-
-Execution Time: 0.0014 seconds
 partly	1
-
-Execution Time: 0.0014 seconds
 est	1
-
-Execution Time: 0.0014 seconds
 banking	1
-
-Execution Time: 0.0014 seconds
 represented	1
-
-Execution Time: 0.0014 seconds
 defendant	1
-
-Execution Time: 0.0014 seconds
 subject	1
-
-Execution Time: 0.0014 seconds
 hint	1
-
-Execution Time: 0.0014 seconds
 often	1
-
-Execution Time: 0.0014 seconds
 ii	1
-
-Execution Time: 0.0014 seconds
 soonest	1
-
-Execution Time: 0.0014 seconds
 potential	1
-
-Execution Time: 0.0014 seconds
 lil	1
-
-Execution Time: 0.0014 seconds
 hybrid	1
-
-Execution Time: 0.0014 seconds
 theoretical	1
-
-Execution Time: 0.0014 seconds
 contributing	1
-
-Execution Time: 0.0014 seconds
 gateway	1
-
-Execution Time: 0.0014 seconds
 biggest	1
-
-Execution Time: 0.0014 seconds
 az	1
-
-Execution Time: 0.0014 seconds
 feelings	1
-
-Execution Time: 0.0014 seconds
 existence	1
-
-Execution Time: 0.0014 seconds
 shelter	1
-
-Execution Time: 0.0014 seconds
 lows	1
-
-Execution Time: 0.0014 seconds
 continuously	1
-
-Execution Time: 0.0014 seconds
 pilot	1
-
-Execution Time: 0.0014 seconds
 recovered	1
-
-Execution Time: 0.0014 seconds
 vsnet	1
-
-Execution Time: 0.0014 seconds
 myspace	1
-
-Execution Time: 0.0014 seconds
 foreign	1
-
-Execution Time: 0.0014 seconds
 newspaper	1
-
-Execution Time: 0.0014 seconds
 core	1
-
-Execution Time: 0.0014 seconds
 respiratory	1
-
-Execution Time: 0.0014 seconds
 replacing	1
-
-Execution Time: 0.0014 seconds
 ear	1
-
-Execution Time: 0.0014 seconds
 frequently	1
-
-Execution Time: 0.0014 seconds
 reproduction	1
-
-Execution Time: 0.0014 seconds
 stress	1
-
-Execution Time: 0.0014 seconds
 legacy	1
-
-Execution Time: 0.0014 seconds
 spent	1
-
-Execution Time: 0.0014 seconds
 spice	1
-
-Execution Time: 0.0014 seconds
 christian	1
-
-Execution Time: 0.0014 seconds
 safer	1
-
-Execution Time: 0.0014 seconds
 sword	1
-
-Execution Time: 0.0014 seconds
 of	1
-
-Execution Time: 0.0014 seconds
 ata	1
-
-Execution Time: 0.0014 seconds
 yu	1
-
-Execution Time: 0.0014 seconds
 math	1
-
-Execution Time: 0.0014 seconds
 learned	1
-
-Execution Time: 0.0014 seconds
 brochure	1
-
-Execution Time: 0.0014 seconds
 suggested	1
-
-Execution Time: 0.0014 seconds
 prove	1
-
-Execution Time: 0.0014 seconds
 audit	1
-
-Execution Time: 0.0014 seconds
 specifics	1
-
-Execution Time: 0.0014 seconds
 stayed	1
-
-Execution Time: 0.0014 seconds
 side	1
-
-Execution Time: 0.0014 seconds
 sought	1
-
-Execution Time: 0.0014 seconds
 decorative	1
-
-Execution Time: 0.0014 seconds
 edition	1
-
-Execution Time: 0.0014 seconds
 runner	1
-
-Execution Time: 0.0014 seconds
 seal	1
-
-Execution Time: 0.0014 seconds
 translate	1
-
-Execution Time: 0.0014 seconds
 tennessee	1
-
-Execution Time: 0.0014 seconds
 below	1
-
-Execution Time: 0.0014 seconds
 burn	1
-
-Execution Time: 0.0014 seconds
 bk	1
-
-Execution Time: 0.0014 seconds
 helen	1
-
-Execution Time: 0.0014 seconds
 nyc	1
-
-Execution Time: 0.0014 seconds
 predict	1
-
-Execution Time: 0.0014 seconds
 proud	1
-
-Execution Time: 0.0014 seconds
 vault	1
-
-Execution Time: 0.0014 seconds
 jeremy	1
-
-Execution Time: 0.0014 seconds
 newsletter	1
-
-Execution Time: 0.0014 seconds
 leadership	1
-
-Execution Time: 0.0014 seconds
 legislative	1
-
-Execution Time: 0.0014 seconds
 analyst	1
-
-Execution Time: 0.0014 seconds
 tower	1
-
-Execution Time: 0.0014 seconds
 investments	1
-
-Execution Time: 0.0014 seconds
 goat	1
-
-Execution Time: 0.0014 seconds
 oven	1
-
-Execution Time: 0.0014 seconds
 preparation	1
-
-Execution Time: 0.0014 seconds
 wound	1
-
-Execution Time: 0.0014 seconds
 plenty	1
-
-Execution Time: 0.0014 seconds
 bizrate	1
-
-Execution Time: 0.0014 seconds
 pm	1
-
-Execution Time: 0.0014 seconds
 approve	1
-
-Execution Time: 0.0014 seconds
 arthritis	1
-
-Execution Time: 0.0014 seconds
 subsidiaries	1
-
-Execution Time: 0.0014 seconds
 coupled	1
-
-Execution Time: 0.0014 seconds
 expansion	1
-
-Execution Time: 0.0014 seconds
 ben	1
-
-Execution Time: 0.0014 seconds
 humanities	1
-
-Execution Time: 0.0014 seconds
 teaching	1
-
-Execution Time: 0.0014 seconds
 understanding	1
-
-Execution Time: 0.0014 seconds
 alternatives	1
-
-Execution Time: 0.0014 seconds
 handed	1
-
-Execution Time: 0.0014 seconds
 millennium	1
-
-Execution Time: 0.0014 seconds
 honors	1
-
-Execution Time: 0.0014 seconds
 fs	1
-
-Execution Time: 0.0014 seconds
 fifth	1
-
-Execution Time: 0.0014 seconds
 something	1
-
-Execution Time: 0.0014 seconds
 cuts	1
-
-Execution Time: 0.0014 seconds
 dec	1
-
-Execution Time: 0.0014 seconds
 shemale	1
-
-Execution Time: 0.0014 seconds
 distributions	1
-
-Execution Time: 0.0014 seconds
 snake	1
-
-Execution Time: 0.0014 seconds
 folding	1
-
-Execution Time: 0.0014 seconds
 worry	1
-
-Execution Time: 0.0014 seconds
 dispute	1
-
-Execution Time: 0.0014 seconds
 bridal	1
-
-Execution Time: 0.0014 seconds
 boundary	1
-
-Execution Time: 0.0014 seconds
 presentation	1
-
-Execution Time: 0.0014 seconds
 sexcam	1
-
-Execution Time: 0.0014 seconds
 offer	1
-
-Execution Time: 0.0014 seconds
 pace	1
-
-Execution Time: 0.0014 seconds
 far	1
-
-Execution Time: 0.0014 seconds
 danger	1
-
-Execution Time: 0.0014 seconds
 dawn	1
-
-Execution Time: 0.0014 seconds
 attention	1
-
-Execution Time: 0.0014 seconds
 hospitals	1
-
-Execution Time: 0.0014 seconds
 destroy	1
-
-Execution Time: 0.0014 seconds
 qualifications	1
-
-Execution Time: 0.0014 seconds
 sk	1
-
-Execution Time: 0.0014 seconds
 salvador	1
-
-Execution Time: 0.0014 seconds
 cloudy	1
-
-Execution Time: 0.0014 seconds
 reload	1
-
-Execution Time: 0.0014 seconds
 start	1
-
-Execution Time: 0.0014 seconds
 mountain	1
-
-Execution Time: 0.0014 seconds
 chase	1
-
-Execution Time: 0.0014 seconds
 periodically	1
-
-Execution Time: 0.0014 seconds
 combination	1
-
-Execution Time: 0.0014 seconds
 once	1
-
-Execution Time: 0.0014 seconds
 clearance	1
-
-Execution Time: 0.0014 seconds
 nightmare	1
-
-Execution Time: 0.0014 seconds
 via	1
-
-Execution Time: 0.0014 seconds
 mozambique	1
-
-Execution Time: 0.0014 seconds
 depend	1
-
-Execution Time: 0.0014 seconds
 dave	1
-
-Execution Time: 0.0014 seconds
 lakes	1
-
-Execution Time: 0.0014 seconds
 break	1
-
-Execution Time: 0.0014 seconds
 contacts	1
-
-Execution Time: 0.0014 seconds
 couples	1
-
-Execution Time: 0.0014 seconds
 today	1
-
-Execution Time: 0.0014 seconds
 jeff	1
-
-Execution Time: 0.0014 seconds
 passwords	1
-
-Execution Time: 0.0014 seconds
 dresses	1
-
-Execution Time: 0.0014 seconds
 tokyo	1
-
-Execution Time: 0.0014 seconds
 fridge	1
-
-Execution Time: 0.0014 seconds
 freelance	1
-
-Execution Time: 0.0014 seconds
 region	1
-
-Execution Time: 0.0014 seconds
 lake	1
-
-Execution Time: 0.0014 seconds
 obituaries	1
-
-Execution Time: 0.0014 seconds
 gl	1
-
-Execution Time: 0.0014 seconds
 bloom	1
-
-Execution Time: 0.0014 seconds
 sciences	1
-
-Execution Time: 0.0014 seconds
 speed	1
-
-Execution Time: 0.0014 seconds
 ef	1
-
-Execution Time: 0.0014 seconds
 illness	1
-
-Execution Time: 0.0014 seconds
 kernel	1
-
-Execution Time: 0.0014 seconds
 critics	1
-
-Execution Time: 0.0014 seconds
 considerable	1
-
-Execution Time: 0.0014 seconds
 lawsuit	1
-
-Execution Time: 0.0014 seconds
 instances	1
-
-Execution Time: 0.0014 seconds
 pocket	1
-
-Execution Time: 0.0014 seconds
 payable	1
-
-Execution Time: 0.0014 seconds
 entering	1
-
-Execution Time: 0.0014 seconds
 io	1
-
-Execution Time: 0.0014 seconds
 successfully	1
-
-Execution Time: 0.0014 seconds
 ending	1
-
-Execution Time: 0.0014 seconds
 klein	1
-
-Execution Time: 0.0014 seconds
 architects	1
-
-Execution Time: 0.0014 seconds
 prostate	1
-
-Execution Time: 0.0014 seconds
 designers	1
-
-Execution Time: 0.0014 seconds
 output	1
-
-Execution Time: 0.0014 seconds
 infections	1
-
-Execution Time: 0.0014 seconds
 partnership	1
-
-Execution Time: 0.0014 seconds
 eating	1
-
-Execution Time: 0.0014 seconds
 employee	1
-
-Execution Time: 0.0014 seconds
 import	1
-
-Execution Time: 0.0014 seconds
 discover	1
-
-Execution Time: 0.0014 seconds
 nice	1
-
-Execution Time: 0.0014 seconds
 tragedy	1
-
-Execution Time: 0.0014 seconds
 computational	1
-
-Execution Time: 0.0014 seconds
 spotlight	1
-
-Execution Time: 0.0014 seconds
 shut	1
-
-Execution Time: 0.0014 seconds
 harbour	1
-
-Execution Time: 0.0014 seconds
 procurement	1
-
-Execution Time: 0.0014 seconds
 glow	1
-
-Execution Time: 0.0014 seconds
 iii	1
-
-Execution Time: 0.0014 seconds
 earn	1
-
-Execution Time: 0.0014 seconds
 warranties	1
-
-Execution Time: 0.0014 seconds
 portugal	1
-
-Execution Time: 0.0014 seconds
 forgot	1
-
-Execution Time: 0.0014 seconds
 hispanic	1
-
-Execution Time: 0.0014 seconds
 korea	1
-
-Execution Time: 0.0014 seconds
 silly	1
-
-Execution Time: 0.0014 seconds
 picking	1
-
-Execution Time: 0.0014 seconds
 detection	1
-
-Execution Time: 0.0014 seconds
 great	1
-
-Execution Time: 0.0014 seconds
 asian	1
-
-Execution Time: 0.0014 seconds
 kinds	1
-
-Execution Time: 0.0014 seconds
 producing	1
-
-Execution Time: 0.0014 seconds
 gifts	1
-
-Execution Time: 0.0014 seconds
 simulations	1
-
-Execution Time: 0.0014 seconds
 vol	1
-
-Execution Time: 0.0014 seconds
 install	1
-
-Execution Time: 0.0014 seconds
 tue	1
-
-Execution Time: 0.0014 seconds
 partial	1
-
-Execution Time: 0.0014 seconds
 yourself	1
-
-Execution Time: 0.0014 seconds
 electrical	1
-
-Execution Time: 0.0014 seconds
 informal	1
-
-Execution Time: 0.0014 seconds
 deny	1
-
-Execution Time: 0.0014 seconds
 drinks	1
-
-Execution Time: 0.0014 seconds
 tall	1
-
-Execution Time: 0.0014 seconds
 ocean	1
-
-Execution Time: 0.0014 seconds
 icons	1
-
-Execution Time: 0.0014 seconds
 subjects	1
-
-Execution Time: 0.0014 seconds
 arabia	1
-
-Execution Time: 0.0014 seconds
 plaintiff	1
-
-Execution Time: 0.0014 seconds
 packet	1
-
-Execution Time: 0.0014 seconds
 conduct	1
-
-Execution Time: 0.0014 seconds
 assessed	1
-
-Execution Time: 0.0014 seconds
 diamond	1
-
-Execution Time: 0.0014 seconds
 real	1
-
-Execution Time: 0.0014 seconds
 blade	1
-
-Execution Time: 0.0014 seconds
 source	1
-
-Execution Time: 0.0014 seconds
 proteins	1
-
-Execution Time: 0.0014 seconds
 mag	1
-
-Execution Time: 0.0014 seconds
 locking	1
-
-Execution Time: 0.0014 seconds
 ga	1
-
-Execution Time: 0.0014 seconds
 watches	1
-
-Execution Time: 0.0014 seconds
 casa	1
-
-Execution Time: 0.0014 seconds
 baby	1
-
-Execution Time: 0.0014 seconds
 engaged	1
-
-Execution Time: 0.0014 seconds
 dam	1
-
-Execution Time: 0.0014 seconds
 productivity	1
-
-Execution Time: 0.0014 seconds
 car	1
-
-Execution Time: 0.0014 seconds
 forms	1
-
-Execution Time: 0.0014 seconds
 nokia	1
-
-Execution Time: 0.0014 seconds
 companies	1
-
-Execution Time: 0.0014 seconds
 france	1
-
-Execution Time: 0.0014 seconds
 married	1
-
-Execution Time: 0.0014 seconds
 jeep	1
-
-Execution Time: 0.0014 seconds
 burner	1
-
-Execution Time: 0.0014 seconds
 sexy	1
-
-Execution Time: 0.0014 seconds
 work	1
-
-Execution Time: 0.0014 seconds
 dip	1
-
-Execution Time: 0.0014 seconds
 vhs	1
-
-Execution Time: 0.0014 seconds
 thunder	1
-
-Execution Time: 0.0014 seconds
 declaration	1
-
-Execution Time: 0.0014 seconds
 define	1
-
-Execution Time: 0.0014 seconds
 scenarios	1
-
-Execution Time: 0.0014 seconds
 saint	1
-
-Execution Time: 0.0014 seconds
 yellow	1
-
-Execution Time: 0.0014 seconds
 satellite	1
-
-Execution Time: 0.0014 seconds
 epic	1
-
-Execution Time: 0.0014 seconds
 win	1
-
-Execution Time: 0.0014 seconds
 wild	1
-
-Execution Time: 0.0014 seconds
 organ	1
-
-Execution Time: 0.0014 seconds
 incorporated	1
-
-Execution Time: 0.0014 seconds
 observed	1
-
-Execution Time: 0.0014 seconds
 fields	1
-
-Execution Time: 0.0014 seconds
 broadcast	1
-
-Execution Time: 0.0014 seconds
 css	1
-
-Execution Time: 0.0014 seconds
 knives	1
-
-Execution Time: 0.0014 seconds
 responsible	1
-
-Execution Time: 0.0014 seconds
 thriller	1
-
-Execution Time: 0.0014 seconds
 effective	1
-
-Execution Time: 0.0014 seconds
 transform	1
-
-Execution Time: 0.0014 seconds
 mh	1
-
-Execution Time: 0.0014 seconds
 belkin	1
-
-Execution Time: 0.0014 seconds
 stories	1
-
-Execution Time: 0.0014 seconds
 penalties	1
-
-Execution Time: 0.0014 seconds
 focus	1
-
-Execution Time: 0.0014 seconds
 governor	1
-
-Execution Time: 0.0014 seconds
 cluster	1
-
-Execution Time: 0.0014 seconds
 threatening	1
-
-Execution Time: 0.0014 seconds
 insulin	1
-
-Execution Time: 0.0014 seconds
 ar	1
-
-Execution Time: 0.0014 seconds
 springs	1
-
-Execution Time: 0.0014 seconds
 tribe	1
-
-Execution Time: 0.0014 seconds
 scuba	1
-
-Execution Time: 0.0014 seconds
 reduced	1
-
-Execution Time: 0.0014 seconds
 ran	1
-
-Execution Time: 0.0014 seconds
 hole	1
-
-Execution Time: 0.0014 seconds
 copying	1
-
-Execution Time: 0.0014 seconds
 harper	1
-
-Execution Time: 0.0014 seconds
 bacterial	1
-
-Execution Time: 0.0014 seconds
 closely	1
-
-Execution Time: 0.0014 seconds
 disposal	1
-
-Execution Time: 0.0014 seconds
 miss	1
-
-Execution Time: 0.0014 seconds
 sending	1
-
-Execution Time: 0.0014 seconds
 hamburg	1
-
-Execution Time: 0.0014 seconds
 tin	1
-
-Execution Time: 0.0014 seconds
 protocol	1
-
-Execution Time: 0.0014 seconds
 tb	1
-
-Execution Time: 0.0014 seconds
 char	1
-
-Execution Time: 0.0014 seconds
 roof	1
-
-Execution Time: 0.0014 seconds
 latvia	1
-
-Execution Time: 0.0014 seconds
 credits	1
-
-Execution Time: 0.0014 seconds
 harold	1
-
-Execution Time: 0.0014 seconds
 puts	1
-
-Execution Time: 0.0014 seconds
 chemicals	1
-
-Execution Time: 0.0014 seconds
 buck	1
-
-Execution Time: 0.0014 seconds
 discuss	1
-
-Execution Time: 0.0014 seconds
 downloadable	1
-
-Execution Time: 0.0014 seconds
 beautiful	1
-
-Execution Time: 0.0014 seconds
 wearing	1
-
-Execution Time: 0.0014 seconds
 would	1
-
-Execution Time: 0.0014 seconds
 colon	1
-
-Execution Time: 0.0014 seconds
 itself	1
-
-Execution Time: 0.0014 seconds
 latin	1
-
-Execution Time: 0.0014 seconds
 inf	1
-
-Execution Time: 0.0014 seconds
 marble	1
-
-Execution Time: 0.0014 seconds
 mercury	1
-
-Execution Time: 0.0014 seconds
 previous	1
-
-Execution Time: 0.0014 seconds
 ate	1
-
-Execution Time: 0.0014 seconds
 repeated	1
-
-Execution Time: 0.0014 seconds
 calvin	1
-
-Execution Time: 0.0014 seconds
 specified	1
-
-Execution Time: 0.0014 seconds
 z	1
-
-Execution Time: 0.0014 seconds
 brake	1
-
-Execution Time: 0.0014 seconds
 increases	1
-
-Execution Time: 0.0014 seconds
 fort	1
-
-Execution Time: 0.0014 seconds
 assigned	1
-
-Execution Time: 0.0014 seconds
 sitting	1
-
-Execution Time: 0.0014 seconds
 preparing	1
-
-Execution Time: 0.0014 seconds
 opened	1
-
-Execution Time: 0.0014 seconds
 swap	1
-
-Execution Time: 0.0014 seconds
 dev	1
-
-Execution Time: 0.0014 seconds
 gamespot	1
-
-Execution Time: 0.0014 seconds
 little	1
-
-Execution Time: 0.0014 seconds
 conversion	1
-
-Execution Time: 0.0014 seconds
 vintage	1
-
-Execution Time: 0.0014 seconds
 greece	1
-
-Execution Time: 0.0014 seconds
 lab	1
-
-Execution Time: 0.0014 seconds
 federal	1
-
-Execution Time: 0.0014 seconds
 coordinate	1
-
-Execution Time: 0.0014 seconds
 travelling	1
-
-Execution Time: 0.0014 seconds
 lookup	1
-
-Execution Time: 0.0014 seconds
 recall	1
-
-Execution Time: 0.0014 seconds
 physiology	1
-
-Execution Time: 0.0014 seconds
 robust	1
-
-Execution Time: 0.0014 seconds
 pointing	1
-
-Execution Time: 0.0014 seconds
 charity	1
-
-Execution Time: 0.0014 seconds
 books	1
-
-Execution Time: 0.0014 seconds
 weak	1
-
-Execution Time: 0.0014 seconds
 oman	1
-
-Execution Time: 0.0014 seconds
 somebody	1
-
-Execution Time: 0.0014 seconds
 np	1
-
-Execution Time: 0.0014 seconds
 entertainment	1
-
-Execution Time: 0.0014 seconds
 the	1
-
-Execution Time: 0.0014 seconds
 treatment	1
-
-Execution Time: 0.0014 seconds
 drunk	1
-
-Execution Time: 0.0014 seconds
 tell	1
-
-Execution Time: 0.0014 seconds
 mary	1
-
-Execution Time: 0.0014 seconds
 hungarian	1
-
-Execution Time: 0.0014 seconds
 levitra	1
-
-Execution Time: 0.0014 seconds
 dallas	1
-
-Execution Time: 0.0014 seconds
 cancel	1
-
-Execution Time: 0.0014 seconds
 u	1
-
-Execution Time: 0.0014 seconds
 guard	1
-
-Execution Time: 0.0014 seconds
 circles	1
-
-Execution Time: 0.0014 seconds
 impressed	1
-
-Execution Time: 0.0014 seconds
 gloves	1
-
-Execution Time: 0.0014 seconds
 dildo	1
-
-Execution Time: 0.0014 seconds
 committees	1
-
-Execution Time: 0.0014 seconds
 registrar	1
-
-Execution Time: 0.0014 seconds
 promises	1
-
-Execution Time: 0.0014 seconds
 tender	1
-
-Execution Time: 0.0014 seconds
 texas	1
-
-Execution Time: 0.0014 seconds
 bolt	1
-
-Execution Time: 0.0014 seconds
 substances	1
-
-Execution Time: 0.0014 seconds
 producers	1
-
-Execution Time: 0.0014 seconds
 organised	1
-
-Execution Time: 0.0014 seconds
 protest	1
-
-Execution Time: 0.0014 seconds
 unified	1
-
-Execution Time: 0.0014 seconds
 mesh	1
-
-Execution Time: 0.0014 seconds
 currency	1
-
-Execution Time: 0.0014 seconds
 owen	1
-
-Execution Time: 0.0014 seconds
 explosion	1
-
-Execution Time: 0.0014 seconds
 enclosure	1
-
-Execution Time: 0.0014 seconds
 vital	1
-
-Execution Time: 0.0014 seconds
 usps	1
-
-Execution Time: 0.0014 seconds
 similar	1
-
-Execution Time: 0.0014 seconds
 flickr	1
-
-Execution Time: 0.0014 seconds
 regional	1
-
-Execution Time: 0.0014 seconds
 division	1
-
-Execution Time: 0.0014 seconds
 vernon	1
-
-Execution Time: 0.0014 seconds
 website	1
-
-Execution Time: 0.0014 seconds
 glenn	1
-
-Execution Time: 0.0014 seconds
 omega	1
-
-Execution Time: 0.0014 seconds
 eds	1
-
-Execution Time: 0.0014 seconds
 rr	1
-
-Execution Time: 0.0014 seconds
 sf	1
-
-Execution Time: 0.0014 seconds
 finds	1
-
-Execution Time: 0.0014 seconds
 reactions	1
-
-Execution Time: 0.0014 seconds
 villages	1
-
-Execution Time: 0.0014 seconds
 supporting	1
-
-Execution Time: 0.0014 seconds
 seniors	1
-
-Execution Time: 0.0014 seconds
 penalty	1
-
-Execution Time: 0.0014 seconds
 filed	1
-
-Execution Time: 0.0014 seconds
 yet	1
-
-Execution Time: 0.0014 seconds
 linking	1
-
-Execution Time: 0.0014 seconds
 es	1
-
-Execution Time: 0.0014 seconds
 longest	1
-
-Execution Time: 0.0014 seconds
 church	1
-
-Execution Time: 0.0014 seconds
 limousines	1
-
-Execution Time: 0.0014 seconds
 puppy	1
-
-Execution Time: 0.0014 seconds
 processes	1
-
-Execution Time: 0.0014 seconds
 consideration	1
-
-Execution Time: 0.0014 seconds
 bike	1
-
-Execution Time: 0.0014 seconds
 shipping	1
-
-Execution Time: 0.0014 seconds
 blues	1
-
-Execution Time: 0.0014 seconds
 prophet	1
-
-Execution Time: 0.0014 seconds
 develops	1
-
-Execution Time: 0.0014 seconds
 cartridges	1
-
-Execution Time: 0.0014 seconds
 deliver	1
-
-Execution Time: 0.0014 seconds
 iron	1
-
-Execution Time: 0.0014 seconds
 chelsea	1
-
-Execution Time: 0.0014 seconds
 southwest	1
-
-Execution Time: 0.0014 seconds
 milf	1
-
-Execution Time: 0.0014 seconds
 expect	1
-
-Execution Time: 0.0014 seconds
 bryan	1
-
-Execution Time: 0.0014 seconds
 camel	1
-
-Execution Time: 0.0014 seconds
 cheap	1
-
-Execution Time: 0.0014 seconds
 ftp	1
-
-Execution Time: 0.0014 seconds
 variable	1
-
-Execution Time: 0.0014 seconds
 weapons	1
-
-Execution Time: 0.0014 seconds
 lots	1
-
-Execution Time: 0.0014 seconds
 diversity	1
-
-Execution Time: 0.0014 seconds
 classic	1
-
-Execution Time: 0.0014 seconds
 calibration	1
-
-Execution Time: 0.0014 seconds
 yukon	1
-
-Execution Time: 0.0014 seconds
 jm	1
-
-Execution Time: 0.0014 seconds
 wagon	1
-
-Execution Time: 0.0014 seconds
 reply	1
-
-Execution Time: 0.0014 seconds
 ion	1
-
-Execution Time: 0.0014 seconds
 morgan	1
-
-Execution Time: 0.0014 seconds
 tear	1
-
-Execution Time: 0.0014 seconds
 australian	1
-
-Execution Time: 0.0014 seconds
 everywhere	1
-
-Execution Time: 0.0014 seconds
 labor	1
-
-Execution Time: 0.0014 seconds
 nano	1
-
-Execution Time: 0.0014 seconds
 switch	1
-
-Execution Time: 0.0014 seconds
 connector	1
-
-Execution Time: 0.0014 seconds
 equivalent	1
-
-Execution Time: 0.0014 seconds
 saints	1
-
-Execution Time: 0.0014 seconds
 christopher	1
-
-Execution Time: 0.0014 seconds
 lincoln	1
-
-Execution Time: 0.0014 seconds
 finally	1
-
-Execution Time: 0.0014 seconds
 rugs	1
-
-Execution Time: 0.0014 seconds
 however	1
-
-Execution Time: 0.0014 seconds
 hu	1
-
-Execution Time: 0.0014 seconds
 bend	1
-
-Execution Time: 0.0014 seconds
 seat	1
-
-Execution Time: 0.0014 seconds
 sarah	1
-
-Execution Time: 0.0014 seconds
 bedrooms	1
-
-Execution Time: 0.0014 seconds
 monroe	1
-
-Execution Time: 0.0014 seconds
 zen	1
-
-Execution Time: 0.0014 seconds
 uh	1
-
-Execution Time: 0.0014 seconds
 marker	1
-
-Execution Time: 0.0014 seconds
 macromedia	1
-
-Execution Time: 0.0014 seconds
 elsewhere	1
-
-Execution Time: 0.0014 seconds
 rapid	1
-
-Execution Time: 0.0014 seconds
 berry	1
-
-Execution Time: 0.0014 seconds
 dental	1
-
-Execution Time: 0.0014 seconds
 cars	1
-
-Execution Time: 0.0014 seconds
 peaceful	1
-
-Execution Time: 0.0014 seconds
 wang	1
-
-Execution Time: 0.0014 seconds
 consumption	1
-
-Execution Time: 0.0014 seconds
 ill	1
-
-Execution Time: 0.0014 seconds
 espn	1
-
-Execution Time: 0.0014 seconds
 emergency	1
-
-Execution Time: 0.0014 seconds
 bon	1
-
-Execution Time: 0.0014 seconds
 winston	1
-
-Execution Time: 0.0014 seconds
 streets	1
-
-Execution Time: 0.0014 seconds
 biz	1
-
-Execution Time: 0.0014 seconds
 timeline	1
-
-Execution Time: 0.0014 seconds
 telecom	1
-
-Execution Time: 0.0014 seconds
 circuits	1
-
-Execution Time: 0.0014 seconds
 cv	1
-
-Execution Time: 0.0014 seconds
 retailers	1
-
-Execution Time: 0.0014 seconds
 words	1
-
-Execution Time: 0.0014 seconds
 represents	1
-
-Execution Time: 0.0014 seconds
 beside	1
-
-Execution Time: 0.0014 seconds
 cet	1
-
-Execution Time: 0.0014 seconds
 opera	1
-
-Execution Time: 0.0014 seconds
 nc	1
-
-Execution Time: 0.0014 seconds
 bt	1
-
-Execution Time: 0.0014 seconds
 estimates	1
-
-Execution Time: 0.0014 seconds
 christ	1
-
-Execution Time: 0.0014 seconds
 challenges	1
-
-Execution Time: 0.0014 seconds
 linear	1
-
-Execution Time: 0.0014 seconds
 invitations	1
-
-Execution Time: 0.0014 seconds
 oklahoma	1
-
-Execution Time: 0.0014 seconds
 leasing	1
-
-Execution Time: 0.0014 seconds
 beverage	1
-
-Execution Time: 0.0014 seconds
 decent	1
-
-Execution Time: 0.0014 seconds
 continually	1
-
-Execution Time: 0.0014 seconds
 focusing	1
-
-Execution Time: 0.0014 seconds
 poland	1
-
-Execution Time: 0.0014 seconds
 partnerships	1
-
-Execution Time: 0.0014 seconds
 overnight	1
-
-Execution Time: 0.0014 seconds
 barrier	1
-
-Execution Time: 0.0014 seconds
 rush	1
-
-Execution Time: 0.0014 seconds
 hourly	1
-
-Execution Time: 0.0014 seconds
 biographies	1
-
-Execution Time: 0.0014 seconds
 question	1
-
-Execution Time: 0.0014 seconds
 buses	1
-
-Execution Time: 0.0014 seconds
 leave	1
-
-Execution Time: 0.0014 seconds
 collar	1
-
-Execution Time: 0.0014 seconds
 mongolia	1
-
-Execution Time: 0.0014 seconds
 outreach	1
-
-Execution Time: 0.0014 seconds
 spec	1
-
-Execution Time: 0.0014 seconds
 colleges	1
-
-Execution Time: 0.0014 seconds
 talked	1
-
-Execution Time: 0.0014 seconds
 unfortunately	1
-
-Execution Time: 0.0014 seconds
 grande	1
-
-Execution Time: 0.0014 seconds
 shoppercom	1
-
-Execution Time: 0.0014 seconds
 noise	1
-
-Execution Time: 0.0014 seconds
 motivated	1
-
-Execution Time: 0.0014 seconds
 operates	1
-
-Execution Time: 0.0014 seconds
 gibraltar	1
-
-Execution Time: 0.0014 seconds
 focused	1
-
-Execution Time: 0.0014 seconds
 cst	1
-
-Execution Time: 0.0014 seconds
 ourselves	1
-
-Execution Time: 0.0014 seconds
 taking	1
-
-Execution Time: 0.0014 seconds
 medicines	1
-
-Execution Time: 0.0014 seconds
 tits	1
-
-Execution Time: 0.0014 seconds
 exists	1
-
-Execution Time: 0.0014 seconds
 stay	1
-
-Execution Time: 0.0014 seconds
 shirt	1
-
-Execution Time: 0.0014 seconds
 bingo	1
-
-Execution Time: 0.0014 seconds
 killing	1
-
-Execution Time: 0.0014 seconds
 prerequisite	1
-
-Execution Time: 0.0014 seconds
 namely	1
-
-Execution Time: 0.0014 seconds
 weekly	1
-
-Execution Time: 0.0014 seconds
 exactly	1
-
-Execution Time: 0.0014 seconds
 bryant	1
-
-Execution Time: 0.0014 seconds
 duties	1
-
-Execution Time: 0.0014 seconds
 wav	1
-
-Execution Time: 0.0014 seconds
 var	1
-
-Execution Time: 0.0014 seconds
 occur	1
-
-Execution Time: 0.0014 seconds
 explain	1
-
-Execution Time: 0.0014 seconds
 grad	1
-
-Execution Time: 0.0014 seconds
 observe	1
-
-Execution Time: 0.0014 seconds
 textile	1
-
-Execution Time: 0.0014 seconds
 ruby	1
-
-Execution Time: 0.0014 seconds
 nz	1
-
-Execution Time: 0.0014 seconds
 operation	1
-
-Execution Time: 0.0014 seconds
 concentrate	1
-
-Execution Time: 0.0014 seconds
 performances	1
-
-Execution Time: 0.0014 seconds
 begin	1
-
-Execution Time: 0.0014 seconds
 trip	1
-
-Execution Time: 0.0014 seconds
 hurricane	1
-
-Execution Time: 0.0014 seconds
 have	1
-
-Execution Time: 0.0014 seconds
 relief	1
-
-Execution Time: 0.0014 seconds
 theaters	1
-
-Execution Time: 0.0014 seconds
 hawaii	1
-
-Execution Time: 0.0014 seconds
 sandwich	1
-
-Execution Time: 0.0014 seconds
 grown	1
-
-Execution Time: 0.0014 seconds
 upon	1
-
-Execution Time: 0.0014 seconds
 quarter	1
-
-Execution Time: 0.0014 seconds
 thirty	1
-
-Execution Time: 0.0014 seconds
 doctors	1
-
-Execution Time: 0.0014 seconds
 tones	1
-
-Execution Time: 0.0014 seconds
 luke	1
-
-Execution Time: 0.0014 seconds
 dish	1
-
-Execution Time: 0.0014 seconds
 ur	1
-
-Execution Time: 0.0014 seconds
 flying	1
-
-Execution Time: 0.0014 seconds
 stuff	1
-
-Execution Time: 0.0014 seconds
 resumes	1
-
-Execution Time: 0.0014 seconds
 students	1
-
-Execution Time: 0.0014 seconds
 pb	1
-
-Execution Time: 0.0014 seconds
 paxil	1
-
-Execution Time: 0.0014 seconds
 browsers	1
-
-Execution Time: 0.0014 seconds
 indicating	1
-
-Execution Time: 0.0014 seconds
 duncan	1
-
-Execution Time: 0.0014 seconds
 lucy	1
-
-Execution Time: 0.0014 seconds
 turn	1
-
-Execution Time: 0.0014 seconds
 inns	1
-
-Execution Time: 0.0014 seconds
 openings	1
-
-Execution Time: 0.0014 seconds
 ultram	1
-
-Execution Time: 0.0014 seconds
 panel	1
-
-Execution Time: 0.0014 seconds
 tested	1
-
-Execution Time: 0.0014 seconds
 ribbon	1
-
-Execution Time: 0.0014 seconds
 usb	1
-
-Execution Time: 0.0014 seconds
 walked	1
-
-Execution Time: 0.0014 seconds
 beaches	1
-
-Execution Time: 0.0014 seconds
 war	1
-
-Execution Time: 0.0014 seconds
 calculated	1
-
-Execution Time: 0.0014 seconds
 prev	1
-
-Execution Time: 0.0014 seconds
 bra	1
-
-Execution Time: 0.0014 seconds
 patent	1
-
-Execution Time: 0.0014 seconds
 shore	1
-
-Execution Time: 0.0014 seconds
 skills	1
-
-Execution Time: 0.0014 seconds
 wv	1
-
-Execution Time: 0.0014 seconds
 sue	1
-
-Execution Time: 0.0014 seconds
 hosting	1
-
-Execution Time: 0.0014 seconds
 seasonal	1
-
-Execution Time: 0.0014 seconds
 caps	1
-
-Execution Time: 0.0014 seconds
 vermont	1
-
-Execution Time: 0.0014 seconds
 paper	1
-
-Execution Time: 0.0014 seconds
 update	1
-
-Execution Time: 0.0014 seconds
 nikon	1
-
-Execution Time: 0.0014 seconds
 tea	1
-
-Execution Time: 0.0014 seconds
 uruguay	1
-
-Execution Time: 0.0014 seconds
 virus	1
-
-Execution Time: 0.0014 seconds
 solo	1
-
-Execution Time: 0.0014 seconds
 berlin	1
-
-Execution Time: 0.0014 seconds
 males	1
-
-Execution Time: 0.0014 seconds
 washington	1
-
-Execution Time: 0.0014 seconds
 bible	1
-
-Execution Time: 0.0014 seconds
 wallpaper	1
-
-Execution Time: 0.0014 seconds
 y	1
-
-Execution Time: 0.0014 seconds
 queen	1
-
-Execution Time: 0.0014 seconds
 trigger	1
-
-Execution Time: 0.0014 seconds
 nearly	1
-
-Execution Time: 0.0014 seconds
 negotiations	1
-
-Execution Time: 0.0014 seconds
 summer	1
-
-Execution Time: 0.0014 seconds
 escort	1
-
-Execution Time: 0.0014 seconds
 mt	1
-
-Execution Time: 0.0014 seconds
 pin	1
-
-Execution Time: 0.0014 seconds
 practitioner	1
-
-Execution Time: 0.0014 seconds
 charger	1
-
-Execution Time: 0.0014 seconds
 tenant	1
-
-Execution Time: 0.0014 seconds
 monetary	1
-
-Execution Time: 0.0014 seconds
 networking	1
-
-Execution Time: 0.0014 seconds
 risk	1
-
-Execution Time: 0.0014 seconds
 trap	1
-
-Execution Time: 0.0014 seconds
 proposals	1
-
-Execution Time: 0.0014 seconds
 coordinates	1
-
-Execution Time: 0.0014 seconds
 lenders	1
-
-Execution Time: 0.0014 seconds
 dos	1
-
-Execution Time: 0.0014 seconds
 dried	1
-
-Execution Time: 0.0014 seconds
 cork	1
-
-Execution Time: 0.0014 seconds
 settings	1
-
-Execution Time: 0.0014 seconds
 daughter	1
-
-Execution Time: 0.0014 seconds
 reserve	1
-
-Execution Time: 0.0014 seconds
 tactics	1
-
-Execution Time: 0.0014 seconds
 deals	1
-
-Execution Time: 0.0014 seconds
 mad	1
-
-Execution Time: 0.0014 seconds
 boobs	1
-
-Execution Time: 0.0014 seconds
 ex	1
-
-Execution Time: 0.0014 seconds
 pharmacy	1
-
-Execution Time: 0.0014 seconds
 reproductive	1
-
-Execution Time: 0.0014 seconds
 chrome	1
-
-Execution Time: 0.0014 seconds
 encryption	1
-
-Execution Time: 0.0014 seconds
 leu	1
-
-Execution Time: 0.0014 seconds
 recommend	1
-
-Execution Time: 0.0014 seconds
 collections	1
-
-Execution Time: 0.0014 seconds
 tire	1
-
-Execution Time: 0.0014 seconds
 invention	1
-
-Execution Time: 0.0014 seconds
 pipes	1
-
-Execution Time: 0.0014 seconds
 champions	1
-
-Execution Time: 0.0014 seconds
 blend	1
-
-Execution Time: 0.0014 seconds
 cb	1
-
-Execution Time: 0.0014 seconds
 retrieved	1
-
-Execution Time: 0.0014 seconds
 vulnerability	1
-
-Execution Time: 0.0014 seconds
 kansas	1
-
-Execution Time: 0.0014 seconds
 photographic	1
-
-Execution Time: 0.0014 seconds
 pioneer	1
-
-Execution Time: 0.0014 seconds
 pmc	1
-
-Execution Time: 0.0014 seconds
 scheduling	1
-
-Execution Time: 0.0014 seconds
 dividend	1
-
-Execution Time: 0.0014 seconds
 shark	1
-
-Execution Time: 0.0014 seconds
 variations	1
-
-Execution Time: 0.0014 seconds
 booking	1
-
-Execution Time: 0.0014 seconds
 promoting	1
-
-Execution Time: 0.0014 seconds
 virtual	1
-
-Execution Time: 0.0014 seconds
 slowly	1
-
-Execution Time: 0.0014 seconds
 strips	1
-
-Execution Time: 0.0014 seconds
 inn	1
-
-Execution Time: 0.0014 seconds
 much	1
-
-Execution Time: 0.0014 seconds
 fraud	1
-
-Execution Time: 0.0014 seconds
 daniel	1
-
-Execution Time: 0.0014 seconds
 drive	1
-
-Execution Time: 0.0014 seconds
 equipped	1
-
-Execution Time: 0.0014 seconds
 somehow	1
-
-Execution Time: 0.0014 seconds
 calgary	1
-
-Execution Time: 0.0014 seconds
 photograph	1
-
-Execution Time: 0.0014 seconds
 strike	1
-
-Execution Time: 0.0014 seconds
 toll	1
-
-Execution Time: 0.0014 seconds
 native	1
-
-Execution Time: 0.0014 seconds
 or	1
-
-Execution Time: 0.0014 seconds
 toe	1
-
-Execution Time: 0.0014 seconds
 programme	1
-
-Execution Time: 0.0014 seconds
 stage	1
-
-Execution Time: 0.0014 seconds
 tiger	1
-
-Execution Time: 0.0014 seconds
 effects	1
-
-Execution Time: 0.0014 seconds
 items	1
-
-Execution Time: 0.0014 seconds
 corporate	1
-
-Execution Time: 0.0014 seconds
 improvement	1
-
-Execution Time: 0.0014 seconds
 stan	1
-
-Execution Time: 0.0014 seconds
 durable	1
-
-Execution Time: 0.0014 seconds
 controller	1
-
-Execution Time: 0.0014 seconds
 stewart	1
-
-Execution Time: 0.0014 seconds
 sr	1
-
-Execution Time: 0.0014 seconds
 sculpture	1
-
-Execution Time: 0.0014 seconds
 murder	1
-
-Execution Time: 0.0014 seconds
 wedding	1
-
-Execution Time: 0.0014 seconds
 gathered	1
-
-Execution Time: 0.0014 seconds
 pas	1
-
-Execution Time: 0.0014 seconds
 placing	1
-
-Execution Time: 0.0014 seconds
 defense	1
-
-Execution Time: 0.0014 seconds
 strict	1
-
-Execution Time: 0.0014 seconds
 bowling	1
-
-Execution Time: 0.0014 seconds
 imperial	1
-
-Execution Time: 0.0014 seconds
 unlock	1
-
-Execution Time: 0.0014 seconds
 resolved	1
-
-Execution Time: 0.0014 seconds
 lately	1
-
-Execution Time: 0.0014 seconds
 protocols	1
-
-Execution Time: 0.0014 seconds
 direction	1
-
-Execution Time: 0.0014 seconds
 voyuer	1
-
-Execution Time: 0.0014 seconds
 regard	1
-
-Execution Time: 0.0014 seconds
 foods	1
-
-Execution Time: 0.0014 seconds
 ft	1
-
-Execution Time: 0.0014 seconds
 dating	1
-
-Execution Time: 0.0014 seconds
 building	1
-
-Execution Time: 0.0014 seconds
 estonia	1
-
-Execution Time: 0.0014 seconds
 performs	1
-
-Execution Time: 0.0014 seconds
 equilibrium	1
-
-Execution Time: 0.0014 seconds
 sen	1
-
-Execution Time: 0.0014 seconds
 tahoe	1
-
-Execution Time: 0.0014 seconds
 disclose	1
-
-Execution Time: 0.0014 seconds
 slip	1
-
-Execution Time: 0.0014 seconds
 midlands	1
-
-Execution Time: 0.0014 seconds
 shemales	1
-
-Execution Time: 0.0014 seconds
 walking	1
-
-Execution Time: 0.0014 seconds
 racks	1
-
-Execution Time: 0.0014 seconds
 innocent	1
-
-Execution Time: 0.0014 seconds
 campaigns	1
-
-Execution Time: 0.0014 seconds
 christina	1
-
-Execution Time: 0.0014 seconds
 bulletin	1
-
-Execution Time: 0.0014 seconds
 synthesis	1
-
-Execution Time: 0.0014 seconds
 so	1
-
-Execution Time: 0.0014 seconds
 commerce	1
-
-Execution Time: 0.0014 seconds
 offensive	1
-
-Execution Time: 0.0014 seconds
 updating	1
-
-Execution Time: 0.0014 seconds
 interaction	1
-
-Execution Time: 0.0014 seconds
 received	1
-
-Execution Time: 0.0014 seconds
 ma	1
-
-Execution Time: 0.0014 seconds
 hdtv	1
-
-Execution Time: 0.0014 seconds
 rates	1
-
-Execution Time: 0.0014 seconds
 powerful	1
-
-Execution Time: 0.0014 seconds
 was	1
-
-Execution Time: 0.0014 seconds
 computing	1
-
-Execution Time: 0.0014 seconds
 cells	1
-
-Execution Time: 0.0014 seconds
 contained	1
-
-Execution Time: 0.0014 seconds
 replaced	1
-
-Execution Time: 0.0014 seconds
 calling	1
-
-Execution Time: 0.0014 seconds
 mailman	1
-
-Execution Time: 0.0014 seconds
 extent	1
-
-Execution Time: 0.0014 seconds
 corpus	1
-
-Execution Time: 0.0014 seconds
 sv	1
-
-Execution Time: 0.0014 seconds
 wishlist	1
-
-Execution Time: 0.0014 seconds
 expired	1
-
-Execution Time: 0.0014 seconds
 circular	1
 
-Execution Time: 0.0014 seconds
+Execution Time: 0.0015 seconds

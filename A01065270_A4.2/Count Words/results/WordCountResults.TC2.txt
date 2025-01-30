@@ -1,432 +1,146 @@
 lease	4
-
-Execution Time: 0.0004 seconds
 brass	4
-
-Execution Time: 0.0004 seconds
 revenues	4
-
-Execution Time: 0.0004 seconds
 targeted	4
-
-Execution Time: 0.0004 seconds
 inflation	4
-
-Execution Time: 0.0004 seconds
 chain	4
-
-Execution Time: 0.0004 seconds
 holders	4
-
-Execution Time: 0.0004 seconds
 amongst	4
-
-Execution Time: 0.0004 seconds
 monaco	4
-
-Execution Time: 0.0004 seconds
 filme	4
-
-Execution Time: 0.0004 seconds
 doc	4
-
-Execution Time: 0.0004 seconds
 kingston	4
-
-Execution Time: 0.0004 seconds
 wood	3
-
-Execution Time: 0.0004 seconds
 pre	3
-
-Execution Time: 0.0004 seconds
 conduct	1
-
-Execution Time: 0.0004 seconds
 kuwait	1
-
-Execution Time: 0.0004 seconds
 literacy	1
-
-Execution Time: 0.0004 seconds
 table	1
-
-Execution Time: 0.0004 seconds
 parent	1
-
-Execution Time: 0.0004 seconds
 olympic	1
-
-Execution Time: 0.0004 seconds
 ht	1
-
-Execution Time: 0.0004 seconds
 algebra	1
-
-Execution Time: 0.0004 seconds
 ss	1
-
-Execution Time: 0.0004 seconds
 norm	1
-
-Execution Time: 0.0004 seconds
 females	1
-
-Execution Time: 0.0004 seconds
 sq	1
-
-Execution Time: 0.0004 seconds
 builders	1
-
-Execution Time: 0.0004 seconds
 newly	1
-
-Execution Time: 0.0004 seconds
 history	1
-
-Execution Time: 0.0004 seconds
 stores	1
-
-Execution Time: 0.0004 seconds
 textiles	1
-
-Execution Time: 0.0004 seconds
 exams	1
-
-Execution Time: 0.0004 seconds
 midi	1
-
-Execution Time: 0.0004 seconds
 correct	1
-
-Execution Time: 0.0004 seconds
 conferencing	1
-
-Execution Time: 0.0004 seconds
 touch	1
-
-Execution Time: 0.0004 seconds
 comic	1
-
-Execution Time: 0.0004 seconds
 container	1
-
-Execution Time: 0.0004 seconds
 preparation	1
-
-Execution Time: 0.0004 seconds
 teen	1
-
-Execution Time: 0.0004 seconds
 males	1
-
-Execution Time: 0.0004 seconds
 correlation	1
-
-Execution Time: 0.0004 seconds
 fioricet	1
-
-Execution Time: 0.0004 seconds
 networks	1
-
-Execution Time: 0.0004 seconds
 deck	1
-
-Execution Time: 0.0004 seconds
 dean	1
-
-Execution Time: 0.0004 seconds
 advantages	1
-
-Execution Time: 0.0004 seconds
 out	1
-
-Execution Time: 0.0004 seconds
 hub	1
-
-Execution Time: 0.0004 seconds
 italy	1
-
-Execution Time: 0.0004 seconds
 objects	1
-
-Execution Time: 0.0004 seconds
 resort	1
-
-Execution Time: 0.0004 seconds
 priced	1
-
-Execution Time: 0.0004 seconds
 southampton	1
-
-Execution Time: 0.0004 seconds
 munich	1
-
-Execution Time: 0.0004 seconds
 sorry	1
-
-Execution Time: 0.0004 seconds
 delays	1
-
-Execution Time: 0.0004 seconds
 man	1
-
-Execution Time: 0.0004 seconds
 croatia	1
-
-Execution Time: 0.0004 seconds
 vice	1
-
-Execution Time: 0.0004 seconds
 opens	1
-
-Execution Time: 0.0004 seconds
 blowjob	1
-
-Execution Time: 0.0004 seconds
 galleries	1
-
-Execution Time: 0.0004 seconds
 weight	1
-
-Execution Time: 0.0004 seconds
 jeff	1
-
-Execution Time: 0.0004 seconds
 boots	1
-
-Execution Time: 0.0004 seconds
 clan	1
-
-Execution Time: 0.0004 seconds
 compatibility	1
-
-Execution Time: 0.0004 seconds
 purposes	1
-
-Execution Time: 0.0004 seconds
 prof	1
-
-Execution Time: 0.0004 seconds
 come	1
-
-Execution Time: 0.0004 seconds
 jose	1
-
-Execution Time: 0.0004 seconds
 turkish	1
-
-Execution Time: 0.0004 seconds
 classes	1
-
-Execution Time: 0.0004 seconds
 vessels	1
-
-Execution Time: 0.0004 seconds
 answering	1
-
-Execution Time: 0.0004 seconds
 sweden	1
-
-Execution Time: 0.0004 seconds
 hampshire	1
-
-Execution Time: 0.0004 seconds
 j	1
-
-Execution Time: 0.0004 seconds
 responsibilities	1
-
-Execution Time: 0.0004 seconds
 magazines	1
-
-Execution Time: 0.0004 seconds
 rio	1
-
-Execution Time: 0.0004 seconds
 amounts	1
-
-Execution Time: 0.0004 seconds
 instantly	1
-
-Execution Time: 0.0004 seconds
 fill	1
-
-Execution Time: 0.0004 seconds
 str	1
-
-Execution Time: 0.0004 seconds
 naturals	1
-
-Execution Time: 0.0004 seconds
 automation	1
-
-Execution Time: 0.0004 seconds
 apache	1
-
-Execution Time: 0.0004 seconds
 rule	1
-
-Execution Time: 0.0004 seconds
 goals	1
-
-Execution Time: 0.0004 seconds
 outlook	1
-
-Execution Time: 0.0004 seconds
 afternoon	1
-
-Execution Time: 0.0004 seconds
 odd	1
-
-Execution Time: 0.0004 seconds
 genome	1
-
-Execution Time: 0.0004 seconds
 protest	1
-
-Execution Time: 0.0004 seconds
 catalog	1
-
-Execution Time: 0.0004 seconds
 creates	1
-
-Execution Time: 0.0004 seconds
 bases	1
-
-Execution Time: 0.0004 seconds
 prominent	1
-
-Execution Time: 0.0004 seconds
 consisting	1
-
-Execution Time: 0.0004 seconds
 minneapolis	1
-
-Execution Time: 0.0004 seconds
 night	1
-
-Execution Time: 0.0004 seconds
 tiger	1
-
-Execution Time: 0.0004 seconds
 unity	1
-
-Execution Time: 0.0004 seconds
 disposal	1
-
-Execution Time: 0.0004 seconds
 cannon	1
-
-Execution Time: 0.0004 seconds
 ou	1
-
-Execution Time: 0.0004 seconds
 hall	1
-
-Execution Time: 0.0004 seconds
 atomic	1
-
-Execution Time: 0.0004 seconds
 chosen	1
-
-Execution Time: 0.0004 seconds
 violence	1
-
-Execution Time: 0.0004 seconds
 sectors	1
-
-Execution Time: 0.0004 seconds
 ignored	1
-
-Execution Time: 0.0004 seconds
 cheese	1
-
-Execution Time: 0.0004 seconds
 frozen	1
-
-Execution Time: 0.0004 seconds
 corp	1
-
-Execution Time: 0.0004 seconds
 undo	1
-
-Execution Time: 0.0004 seconds
 tba	1
-
-Execution Time: 0.0004 seconds
 way	1
-
-Execution Time: 0.0004 seconds
 filter	1
-
-Execution Time: 0.0004 seconds
 win	1
-
-Execution Time: 0.0004 seconds
 attending	1
-
-Execution Time: 0.0004 seconds
 returned	1
-
-Execution Time: 0.0004 seconds
 anchor	1
-
-Execution Time: 0.0004 seconds
 sides	1
-
-Execution Time: 0.0004 seconds
 defence	1
-
-Execution Time: 0.0004 seconds
 biz	1
-
-Execution Time: 0.0004 seconds
 form	1
-
-Execution Time: 0.0004 seconds
 feeding	1
-
-Execution Time: 0.0004 seconds
 rentals	1
-
-Execution Time: 0.0004 seconds
 practical	1
-
-Execution Time: 0.0004 seconds
 steve	1
-
-Execution Time: 0.0004 seconds
 serious	1
-
-Execution Time: 0.0004 seconds
 mens	1
-
-Execution Time: 0.0004 seconds
 faculty	1
-
-Execution Time: 0.0004 seconds
 initiative	1
-
-Execution Time: 0.0004 seconds
 variety	1
-
-Execution Time: 0.0004 seconds
 ion	1
-
-Execution Time: 0.0004 seconds
 interface	1
-
-Execution Time: 0.0004 seconds
 remained	1
-
-Execution Time: 0.0004 seconds
 icons	1
-
-Execution Time: 0.0004 seconds
 excessive	1
-
-Execution Time: 0.0004 seconds
 jon	1
 
-Execution Time: 0.0004 seconds
+Execution Time: 0.0009 seconds

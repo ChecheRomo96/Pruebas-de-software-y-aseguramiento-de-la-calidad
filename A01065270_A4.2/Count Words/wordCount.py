@@ -63,9 +63,10 @@ def write_results(word_counts, elapsed_time):
                 word_counts.items(), key=lambda x: x[1], reverse=True
             ):
                 output_file.write(f"{word}\t{count}\n")
-                output_file.write(
-                    f"\nExecution Time: {elapsed_time:.4f} seconds\n"
-                )
+
+            output_file.write(
+                f"\nExecution Time: {elapsed_time:.4f} seconds\n"
+            )
 
         print(f"Results saved in {output_file_path}")
 
@@ -92,8 +93,9 @@ def main():
             word_counts.items(), key=lambda x: x[1], reverse=True
         ):
             print(f"{word}\t{count}")
-        print(f"\nExecution Time: {elapsed_time:.4f} seconds")
         write_results(word_counts, elapsed_time)
+
+    print(f"\nExecution Time: {elapsed_time:.4f} seconds")
 
 
 if __name__ == "__main__":
