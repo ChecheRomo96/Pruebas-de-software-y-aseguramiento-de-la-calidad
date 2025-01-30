@@ -31,7 +31,7 @@ jobs:
           ls
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py ../data/TC1.txt > ../output.log
+          python computeStatistics.py data/TC1.txt > ../output.log
 
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
