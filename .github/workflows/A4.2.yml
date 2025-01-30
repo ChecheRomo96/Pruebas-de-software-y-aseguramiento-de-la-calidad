@@ -1,0 +1,37 @@
+name: Run CLI Script
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # Adjust to your Python version
+
+      - name: Install Dependencies
+        run: |
+          pip install -r A01065270_A4.2requirements.txt || echo "No requirements file found"
+
+      - name: Run Script
+        run: |
+          python compute_statistics.py input.txt > output.log
+          
+      - name: Upload Output as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: script-output
+          path: output.log
