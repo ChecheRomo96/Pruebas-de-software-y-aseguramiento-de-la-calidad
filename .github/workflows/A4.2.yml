@@ -26,17 +26,28 @@ jobs:
         run: |
           pip install -r A01065270_A4.2/requirements.txt || echo "No requirements file found"
 
-      - name: Process Data
+      - name: Compute Statistics
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
+        run: |
           python computeStatistics.py data/TC1.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC2.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC3.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC4.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC5.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC6.txt > ../output.log
+        run: |
           python computeStatistics.py data/TC7.txt > ../output.log
+        run: |
+          cd ..
+          cd ..
+        
 
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
