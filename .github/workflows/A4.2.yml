@@ -28,6 +28,7 @@ jobs:
 
       - name: Process Data
         run: |
+          ls
           cd "Compute Statistics"
           python computeStatistics.py ../data/TC1.txt > ../output.log
 
