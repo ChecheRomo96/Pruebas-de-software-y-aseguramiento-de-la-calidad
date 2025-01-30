@@ -24,11 +24,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install -r A01065270_A4.2requirements.txt || echo "No requirements file found"
+          pip install -r A01065270_A4.2/requirements.txt || echo "No requirements file found"
 
       - name: Run Script
         run: |
-          python compute_statistics.py input.txt > output.log
+          cd "Compute Statistics" |
+          python computeStatistics.py data/TC1.txt > output.log
           
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
