@@ -26,13 +26,11 @@ jobs:
         run: |
           pip install -r A01065270_A4.2/requirements.txt || echo "No requirements file found"
 
-      - name: Go to Compute Statistics subdir
-        run: cd "Compute Statistics"
-
       - name: Process Data
         run: |
-          python computeStatistics.py data/TC1.txt > output.log
-          
+          cd "Compute Statistics"
+          python computeStatistics.py ../data/TC1.txt > ../output.log
+
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
         with:
