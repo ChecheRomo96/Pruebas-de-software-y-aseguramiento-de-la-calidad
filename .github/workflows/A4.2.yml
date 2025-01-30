@@ -30,43 +30,43 @@ jobs:
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC1.txt > ../output.log
+          python computeStatistics.py data/TC1.txt > ../../output.log
 
       - name: Compute Statistics Test Case 2
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC2.txt > ../output.log
+          python computeStatistics.py data/TC2.txt > ../../output.log
 
       - name: Compute Statistics Test Case 3
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC3.txt > ../output.log
+          python computeStatistics.py data/TC3.txt > ../../output.log
           
       - name: Compute Statistics Test Case 4
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC4.txt > ../output.log
+          python computeStatistics.py data/TC4.txt > ../../output.log
           
       - name: Compute Statistics Test Case 5
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC5.txt > ../output.log
+          python computeStatistics.py data/TC5.txt > ../../output.log
           
       - name: Compute Statistics Test Case 6
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC6.txt > ../output.log
+          python computeStatistics.py data/TC6.txt > ../../output.log
           
       - name: Compute Statistics Test Case 7
         run: |
           cd A01065270_A4.2
           cd "Compute Statistics"
-          python computeStatistics.py data/TC7.txt > ../output.log
+          python computeStatistics.py data/TC7.txt > ../../output.log
           
         
 
