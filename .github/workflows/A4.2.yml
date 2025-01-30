@@ -73,5 +73,5 @@ jobs:
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: script-output
-          path: output.log
+          name: GHActionsScriptResults
+          path: A01065270_A4.2/
