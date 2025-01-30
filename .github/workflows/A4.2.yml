@@ -28,10 +28,15 @@ jobs:
 
       - name: Process Data
         run: |
-          ls
           cd A01065270_A4.2
           cd "Compute Statistics"
           python computeStatistics.py data/TC1.txt > ../output.log
+          python computeStatistics.py data/TC2.txt > ../output.log
+          python computeStatistics.py data/TC3.txt > ../output.log
+          python computeStatistics.py data/TC4.txt > ../output.log
+          python computeStatistics.py data/TC5.txt > ../output.log
+          python computeStatistics.py data/TC6.txt > ../output.log
+          python computeStatistics.py data/TC7.txt > ../output.log
 
       - name: Upload Output as Artifact
         uses: actions/upload-artifact@v3
