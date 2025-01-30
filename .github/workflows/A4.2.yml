@@ -29,6 +29,7 @@ jobs:
       - name: Process Data
         run: |
           ls
+          cd A01065270_A4.2
           cd "Compute Statistics"
           python computeStatistics.py ../data/TC1.txt > ../output.log
 
