@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Script
         run: |
-          cd "Compute Statistics" |
+          cd "Compute Statistics"
           python computeStatistics.py data/TC1.txt > output.log
           
       - name: Upload Output as Artifact
