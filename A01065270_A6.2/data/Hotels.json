@@ -1,0 +1,102 @@
+[
+    {
+        "hotel_id": 39639,
+        "name": "Hotel Playa del Sol",
+        "location": "Canc\u00fan"
+    },
+    {
+        "hotel_id": 55089,
+        "name": "Casa del Mar Boutique",
+        "location": "Tulum"
+    },
+    {
+        "hotel_id": 54897,
+        "name": "Gran Oasis Resort",
+        "location": "Playa del Carmen"
+    },
+    {
+        "hotel_id": 8894,
+        "name": "Hotel Real del Valle",
+        "location": "San Miguel de Allende"
+    },
+    {
+        "hotel_id": 57658,
+        "name": "Casa Colonial Boutique Hotel",
+        "location": "Oaxaca"
+    },
+    {
+        "hotel_id": 4215,
+        "name": "El Mirador Resort & Spa",
+        "location": "Puerto Vallarta"
+    },
+    {
+        "hotel_id": 5738,
+        "name": "Hotel Hacienda San \u00c1ngel",
+        "location": "Guadalajara"
+    },
+    {
+        "hotel_id": 41942,
+        "name": "Mar Azul Luxury Suites",
+        "location": "Cabo San Lucas"
+    },
+    {
+        "hotel_id": 34636,
+        "name": "Hotel Para\u00edso del Mar",
+        "location": "Mazatl\u00e1n"
+    },
+    {
+        "hotel_id": 2477,
+        "name": "Selva Maya Eco Lodge",
+        "location": "Chiapas"
+    },
+    {
+        "hotel_id": 33807,
+        "name": "Hotel Boutique Casa Azul",
+        "location": "M\u00e9rida"
+    },
+    {
+        "hotel_id": 39910,
+        "name": "Gran Castillo Hotel & Resort",
+        "location": "Monterrey"
+    },
+    {
+        "hotel_id": 54961,
+        "name": "Hotel Vista Hermosa",
+        "location": "Cuernavaca"
+    },
+    {
+        "hotel_id": 24926,
+        "name": "Cielo Sereno Mountain Lodge",
+        "location": "Puebla"
+    },
+    {
+        "hotel_id": 11398,
+        "name": "Hotel Luna del Mar",
+        "location": "Acapulco"
+    },
+    {
+        "hotel_id": 43250,
+        "name": "Casa de los \u00c1ngeles",
+        "location": "San Crist\u00f3bal de las Casas"
+    },
+    {
+        "hotel_id": 39652,
+        "name": "Hotel Maravilla del Pac\u00edfico",
+        "location": "Ensenada"
+    },
+    {
+        "hotel_id": 50591,
+        "name": "Hotel Sierra Dorada",
+        "location": "Zacatecas"
+    },
+    {
+        "hotel_id": 28317,
+        "name": "Riviera Grand Hotel",
+        "location": "Puerto Escondido"
+    },
+    {
+        "hotel_id": 61128,
+        "name": "Hotel Noche Estrellada",
+        "location": "Morelia"
+    }
+]
