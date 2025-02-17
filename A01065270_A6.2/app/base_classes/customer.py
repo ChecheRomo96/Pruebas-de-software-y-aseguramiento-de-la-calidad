@@ -12,6 +12,7 @@ import os
 
 import app.config as conf
 
+
 class Customer:
     """Represents a customer and provides methods to manage customer records."""
 

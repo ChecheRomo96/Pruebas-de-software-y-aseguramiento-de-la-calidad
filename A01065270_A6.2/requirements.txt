@@ -2,3 +2,4 @@ pytest
 pylint
 coverage
 setuptools
+flake8

@@ -12,6 +12,7 @@ import os
 
 import app.config as conf
 
+
 class Hotel:
     """Represents a hotel and provides methods to manage hotel records."""
 
@@ -94,7 +95,10 @@ class Hotel:
         """Saves this hotel instance to the database."""
         hotels = Hotel.load_from_file()
         if any(h.hotel_id == self.hotel_id for h in hotels):
-            conf.debug_log(f"Hotel ID {self.hotel_id} already exists. Use `update()` instead.")
+            conf.debug_log(
+                f"Hotel ID {self.hotel_id} already exists."
+                "Use `update()` instead."
+            )
             return False
 
         hotels.append(self)
@@ -112,7 +116,9 @@ class Hotel:
                 if location:
                     hotel.location = location
                 Hotel.save_to_file(hotels)
-                conf.debug_log(f"Hotel {self.hotel_id} updated successfully.")
+                conf.debug_log(
+                    f"Hotel {self.hotel_id} updated successfully."
+                )
                 return True
         conf.debug_log(f"Hotel ID {self.hotel_id} not found.")
         return False
