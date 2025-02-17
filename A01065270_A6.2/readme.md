@@ -1,27 +1,68 @@
-# 1️⃣ Create a virtual environment
+# Reservations System
+
+## Setup Instructions
+
+### 1️⃣ Create a Virtual Environment
+To set up a virtual environment for the project, run:
+```
 python -m venv venv
+```
 
-# 2️⃣ Activate the virtual environment:
-# macOS/Linux:
+### 2️⃣ Activate the Virtual Environment
+#### macOS/Linux:
+```
 source venv/bin/activate
+```
 
-# Windows (PowerShell):
+#### Windows (PowerShell):
+```
 venv\Scripts\Activate
+```
 
-# install requirements.txt
+### 3️⃣ Install Dependencies
+Once the virtual environment is activated, install the required packages:
+```
 pip install -r requirements.txt
+```
 
-# discover and run unit tests (run from top dir)
+## Running Tests
+
+### Discover and Run Unit Tests
+From the top directory of the project, execute:
+```
 python -m unittest discover -s tests
+```
 
-# coverage tests tests (run from top dir)
+### Coverage Testing
+Run the tests with coverage tracking:
+```
 coverage run -m unittest discover
+```
 
+Generate a coverage report:
+```
 coverage report -m
+```
 
+Generate an HTML coverage report:
+```
 coverage html
+```
 
-# open coverage test results (graphic)
-open htmlcov/index.html  # macOS
-xdg-open htmlcov/index.html  # Linux
-start htmlcov\index.html  # Windows
+### Viewing Coverage Results
+To open the HTML coverage report, use the appropriate command for your operating system:
+
+#### macOS:
+```
+open htmlcov/index.html
+```
+
+#### Linux:
+```
+xdg-open htmlcov/index.html
+```
+
+#### Windows:
+```
+start htmlcov\index.html
+```

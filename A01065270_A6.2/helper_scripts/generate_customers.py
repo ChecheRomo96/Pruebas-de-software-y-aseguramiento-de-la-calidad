@@ -46,7 +46,7 @@ def execute_customer_creation(commands):
 
     for cmd in commands:
         # Ensure names with spaces are properly quoted
-        cmd[1] = f'"{cmd[1]}"'  
+        cmd[1] = f'"{cmd[1]}"'
         process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
         processes.append(process)
 
@@ -64,17 +64,17 @@ if __name__ == "__main__":
         sys.exit(1)
 
     try:
-        num_customers = int(sys.argv[1])
-        if num_customers <= 0:
+        n_customers = int(sys.argv[1])
+        if n_customers <= 0:
             raise ValueError
     except ValueError:
-        print("Error: <num_customers> must be a positive integer.")
+        print("Error: <n_customers> must be a positive integer.")
         sys.exit(1)
 
-    commands = generate_customers(num_customers)
+    commands = generate_customers(n_customers)
 
     if commands:
         execute_customer_creation(commands)
-        print(f"{num_customers} customers created successfully.")
+        print(f"{n_customers} customers created successfully.")
     else:
         print("No valid customers could be created.")
