@@ -119,3 +119,18 @@ class Customer:
         print("\n=== Customer List ===")
         for cust in customers:
             print(f"ID: {cust.customer_id} | Name: {cust.name} | Email: {cust.email}")
+
+    def update(self, name=None, email=None):
+        """Updates this specific customer's details in the database."""
+        customers = Customer.load_from_file()
+        for cust in customers:
+            if cust.customer_id == self.customer_id:
+                if name:
+                    cust.name = name
+                if email:
+                    cust.email = email
+                Customer.save_to_file(customers)
+                conf.debug_log(f"Customer {self.customer_id} updated successfully.")
+                return True
+        conf.debug_log(f"Customer ID {self.customer_id} not found.")
+        return False

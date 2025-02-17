@@ -126,7 +126,7 @@ class Reservation:
         hotels = {h.hotel_id: h.name for h in Hotel.load_from_file()}
 
         if not reservations:
-            print("No reservations found.")
+            conf.debug_log("No reservations found.")
             return
 
         print("\n=== Current Reservations ===")
