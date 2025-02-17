@@ -14,6 +14,7 @@ import app.config as conf
 from app.base_classes.hotel import Hotel
 from app.base_classes.customer import Customer
 
+
 class Reservation:
     """Represents a reservation and provides methods to manage reservations."""
 
@@ -50,7 +51,9 @@ class Reservation:
 
     @classmethod
     def load_from_file(cls):
-        """Loads reservations from a file and returns a list of Reservation objects."""
+        """Loads reservations from a file and
+        returns a list of Reservation objects."""
+
         if not os.path.exists(cls.FILE_PATH):
             return []
         try:
@@ -80,9 +83,11 @@ class Reservation:
     def cancel_reservation(cls, reservation_id):
         """Cancels a reservation by ID if it exists."""
         reservations = cls.load_from_file()
-        new_reservations = [res for res in reservations if res.reservation_id != reservation_id]
+        new_reservations = [
+            res for res in reservations if res.reservation_id != reservation_id
+        ]
 
-        if len(new_reservations) == len(reservations):  # No reservation removed
+        if len(new_reservations) == len(reservations):
             conf.debug_log(f"Reservation ID {reservation_id} not found.")
             return False
 
@@ -102,7 +107,9 @@ class Reservation:
     def save(self):
         """Saves this reservation instance to the database."""
         reservations = Reservation.load_from_file()
-        if any(res.reservation_id == self.reservation_id for res in reservations):
+        if any(
+            res.reservation_id == self.reservation_id for res in reservations
+        ):
             conf.debug_log(
                 f"Reservation ID {self.reservation_id} already exists. "
                 f"Use `update()` instead."
@@ -111,7 +118,9 @@ class Reservation:
 
         reservations.append(self)
         Reservation.save_to_file(reservations)
-        conf.debug_log(f"Reservation {self.reservation_id} saved successfully.")
+        conf.debug_log(
+            f"Reservation {self.reservation_id} saved successfully."
+        )
         return True
 
     def delete(self):

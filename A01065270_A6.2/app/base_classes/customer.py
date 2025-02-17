@@ -14,7 +14,8 @@ import app.config as conf
 
 
 class Customer:
-    """Represents a customer and provides methods to manage customer records."""
+    """Represents a customer and provides methods
+    to manage customer records."""
 
     FILE_PATH = os.path.join("data", "Customers.json")
 
@@ -26,7 +27,11 @@ class Customer:
 
     def to_dict(self):
         """Converts the customer instance to a dictionary."""
-        return {"customer_id": self.customer_id, "name": self.name, "email": self.email}
+        return {
+            "customer_id": self.customer_id,
+            "name": self.name,
+            "email": self.email
+        }
 
     @classmethod
     def ensure_data_directory(cls):
@@ -39,13 +44,17 @@ class Customer:
         cls.ensure_data_directory()
         try:
             with open(cls.FILE_PATH, "w", encoding="utf-8") as f:
-                json.dump([customer.to_dict() for customer in customers], f, indent=4)
+                json.dump(
+                    [customer.to_dict() for customer in customers], f, indent=4
+                )
         except IOError as e:
             conf.debug_log(f"Error saving customers: {e}")
 
     @classmethod
     def load_from_file(cls):
-        """Loads customers from a file and returns a list of Customer objects."""
+        """Loads customers from a file and
+        returns a list of Customer objects."""
+
         if not os.path.exists(cls.FILE_PATH):
             return []
         try:
@@ -60,7 +69,10 @@ class Customer:
         """Creates a new customer and prevents duplicate IDs."""
         customers = cls.load_from_file()
         if any(cust.customer_id == customer_id for cust in customers):
-            conf.debug_log(f"Customer ID {customer_id} already exists. Choose a different ID.")
+            conf.debug_log(
+                f"Customer ID {customer_id}"
+                " already exists. Choose a different ID."
+            )
             return False
 
         new_customer = cls(customer_id, name, email)
@@ -72,7 +84,9 @@ class Customer:
     def delete_customer(cls, customer_id):
         """Deletes a customer by ID if it exists."""
         customers = cls.load_from_file()
-        new_customers = [cust for cust in customers if cust.customer_id != customer_id]
+        new_customers = [
+            cust for cust in customers if cust.customer_id != customer_id
+        ]
 
         if len(new_customers) == len(customers):  # No customer removed
             conf.debug_log(f"Customer ID {customer_id} not found.")
@@ -96,7 +110,8 @@ class Customer:
         customers = Customer.load_from_file()
         if any(cust.customer_id == self.customer_id for cust in customers):
             conf.debug_log(
-                f"Customer ID {self.customer_id} already exists. Use `update()` instead."
+                f"Customer ID {self.customer_id}"
+                " already exists. Use `update()` instead."
             )
             return False
 
@@ -119,7 +134,11 @@ class Customer:
 
         print("\n=== Customer List ===")
         for cust in customers:
-            print(f"ID: {cust.customer_id} | Name: {cust.name} | Email: {cust.email}")
+            print(
+                f"ID: {cust.customer_id} "
+                f"| Name: {cust.name} "
+                f"| Email: {cust.email}"
+            )
 
     def update(self, name=None, email=None):
         """Updates this specific customer's details in the database."""
@@ -131,7 +150,10 @@ class Customer:
                 if email:
                     cust.email = email
                 Customer.save_to_file(customers)
-                conf.debug_log(f"Customer {self.customer_id} updated successfully.")
+                conf.debug_log(
+                    f"Customer {self.customer_id}"
+                    " updated successfully."
+                )
                 return True
         conf.debug_log(f"Customer ID {self.customer_id} not found.")
         return False
