@@ -104,7 +104,7 @@ class Hotel:
         if any(h.hotel_id == self.hotel_id for h in hotels):
             conf.debug_log(
                 f"Hotel ID {self.hotel_id} already exists."
-                "Use `update()` instead."
+                " Use `update()` instead."
             )
             return False
 
