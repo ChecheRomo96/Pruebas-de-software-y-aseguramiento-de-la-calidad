@@ -5,7 +5,7 @@ Unit tests for the Hotel class.
 import unittest
 from unittest.mock import patch, mock_open
 import json
-from app.baseClasses.hotel import Hotel
+from app.base_classes.hotel import Hotel
 
 class TestHotel(unittest.TestCase):
     """Tests for the Hotel class."""
@@ -15,7 +15,7 @@ class TestHotel(unittest.TestCase):
     @patch("os.makedirs")
     def test_create_hotel(self, _mock_makedirs, _mock_file):
         """Test creating a hotel and ensuring it's saved."""
-        with patch("app.baseClasses.hotel.Hotel.load_from_file", return_value=[]):
+        with patch("app.base_classes.hotel.Hotel.load_from_file", return_value=[]):
             self.assertTrue(Hotel.create_hotel(1, "Grand Hotel", "New York"))
 
 
@@ -35,11 +35,11 @@ class TestHotel(unittest.TestCase):
         [{"hotel_id": 1, "name": "Grand Hotel", "location": "New York"}])
     )
     @patch("os.path.exists", return_value=True)
-    @patch("app.baseClasses.hotel.Hotel.save_to_file")
+    @patch("app.base_classes.hotel.Hotel.save_to_file")
     def test_delete_hotel(self, mock_save, _mock_exists, _mock_file):
         """Test deleting a hotel."""
         with patch(
-            "app.baseClasses.hotel.Hotel.load_from_file",
+            "app.base_classes.hotel.Hotel.load_from_file",
             return_value=[Hotel(1, "Grand Hotel", "New York")]
         ):
             result = Hotel.delete_hotel(1)
@@ -70,10 +70,10 @@ class TestHotel(unittest.TestCase):
         mock_file.assert_called_once_with(Hotel.FILE_PATH, "w", encoding="utf-8")
 
 
-    @patch("app.config.debugLog")
+    @patch("app.config.debug_log")
     def test_display_hotels_no_data(self, mock_debug_log):
         """Test displaying hotels when no hotels exist."""
-        with patch("app.baseClasses.hotel.Hotel.load_from_file", return_value=[]):
+        with patch("app.base_classes.hotel.Hotel.load_from_file", return_value=[]):
             Hotel.display_hotels()
             mock_debug_log.assert_called_with("No hotels found.")
 

@@ -48,7 +48,7 @@ class Hotel:
         if not os.path.exists(cls.FILE_PATH):
             return []
         try:
-            with open(cls.FILE_PATH, "r", encoding="utf-8") as f: 
+            with open(cls.FILE_PATH, "r", encoding="utf-8") as f:
                 return [cls(**hotel) for hotel in json.load(f)]
         except (IOError, json.JSONDecodeError) as e:
             print(f"Error loading hotels: {e}")
@@ -59,7 +59,7 @@ class Hotel:
         """Creates a new hotel and prevents duplicate IDs."""
         hotels = cls.load_from_file()
         if any(h.hotel_id == hotel_id for h in hotels):
-            conf.debugLog(f"Hotel ID {hotel_id} already exists. Choose a different ID.")
+            conf.debug_log(f"Hotel ID {hotel_id} already exists. Choose a different ID.")
             return False
 
         new_hotel = cls(hotel_id, name, location)
@@ -74,11 +74,11 @@ class Hotel:
         new_hotels = [hotel for hotel in hotels if hotel.hotel_id != hotel_id]
 
         if len(new_hotels) == len(hotels):  # No hotel removed
-            conf.debugLog(f"Hotel ID {hotel_id} not found.")
+            conf.debug_log(f"Hotel ID {hotel_id} not found.")
             return False
 
         cls.save_to_file(new_hotels)
-        conf.debugLog(f"Hotel ID {hotel_id} deleted.")
+        conf.debug_log(f"Hotel ID {hotel_id} deleted.")
         return True
 
     @classmethod
@@ -94,12 +94,12 @@ class Hotel:
         """Saves this hotel instance to the database."""
         hotels = Hotel.load_from_file()
         if any(h.hotel_id == self.hotel_id for h in hotels):
-            conf.debugLog(f"Hotel ID {self.hotel_id} already exists. Use `update()` instead.")
+            conf.debug_log(f"Hotel ID {self.hotel_id} already exists. Use `update()` instead.")
             return False
 
         hotels.append(self)
         Hotel.save_to_file(hotels)
-        conf.debugLog(f"Hotel {self.name} saved successfully.")
+        conf.debug_log(f"Hotel {self.name} saved successfully.")
         return True
 
     def update(self, name=None, location=None):
@@ -112,9 +112,9 @@ class Hotel:
                 if location:
                     hotel.location = location
                 Hotel.save_to_file(hotels)
-                conf.debugLog(f"Hotel {self.hotel_id} updated successfully.")
+                conf.debug_log(f"Hotel {self.hotel_id} updated successfully.")
                 return True
-        conf.debugLog(f"Hotel ID {self.hotel_id} not found.")
+        conf.debug_log(f"Hotel ID {self.hotel_id} not found.")
         return False
 
     def delete(self):
@@ -126,7 +126,7 @@ class Hotel:
         """Displays all hotels in a readable format."""
         hotels = cls.load_from_file()
         if not hotels:
-            conf.debugLog("No hotels found.")
+            conf.debug_log("No hotels found.")
             return
 
         print("\n=== Available Hotels ===")

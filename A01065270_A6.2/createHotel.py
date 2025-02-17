@@ -1,6 +1,6 @@
 import sys
 import random
-from app.baseClasses.hotel import Hotel
+from app.base_classes.hotel import Hotel
 
 def generate_unique_id():
     """Generate a random uint16 ID and ensure it is unique in the database."""

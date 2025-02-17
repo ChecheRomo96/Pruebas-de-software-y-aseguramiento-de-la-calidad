@@ -1,0 +1,52 @@
+[
+    {
+        "customer_id": 31949,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com"
+    },
+    {
+        "customer_id": 52410,
+        "name": "Michael Smith",
+        "email": "michael.smith@example.com"
+    },
+    {
+        "customer_id": 52795,
+        "name": "Sophie Williams",
+        "email": "sophie.williams@example.com"
+    },
+    {
+        "customer_id": 11083,
+        "name": "Daniel Brown",
+        "email": "daniel.brown@example.com"
+    },
+    {
+        "customer_id": 3111,
+        "name": "Emma Davis",
+        "email": "emma.davis@example.com"
+    },
+    {
+        "customer_id": 48864,
+        "name": "James Wilson",
+        "email": "james.wilson@example.com"
+    },
+    {
+        "customer_id": 24773,
+        "name": "Olivia Martinez",
+        "email": "olivia.martinez@example.com"
+    },
+    {
+        "customer_id": 37197,
+        "name": "William Anderson",
+        "email": "william.anderson@example.com"
+    },
+    {
+        "customer_id": 44531,
+        "name": "Isabella Thomas",
+        "email": "isabella.thomas@example.com"
+    },
+    {
+        "customer_id": 39643,
+        "name": "Ethan White",
+        "email": "ethan.white@example.com"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "reservation_id": 47480,
+        "customer_id": "24773",
+        "hotel_id": "5738"
+    },
+    {
+        "reservation_id": 57285,
+        "customer_id": "48864",
+        "hotel_id": "54961"
+    },
+    {
+        "reservation_id": 28595,
+        "customer_id": "31949",
+        "hotel_id": "24926"
+    },
+    {
+        "reservation_id": 22467,
+        "customer_id": "52410",
+        "hotel_id": "34636"
+    },
+    {
+        "reservation_id": 58032,
+        "customer_id": "39643",
+        "hotel_id": "4215"
+    },
+    {
+        "reservation_id": 4804,
+        "customer_id": "52795",
+        "hotel_id": "57658"
+    },
+    {
+        "reservation_id": 65,
+        "customer_id": "11083",
+        "hotel_id": "50591"
+    },
+    {
+        "reservation_id": 42759,
+        "customer_id": "48864",
+        "hotel_id": "5738"
+    },
+    {
+        "reservation_id": 39464,
+        "customer_id": "31949",
+        "hotel_id": "39910"
+    },
+    {
+        "reservation_id": 25162,
+        "customer_id": "37197",
+        "hotel_id": "61128"
+    },
+    {
+        "reservation_id": 7300,
+        "customer_id": "24773",
+        "hotel_id": "24926"
+    },
+    {
+        "reservation_id": 14644,
+        "customer_id": "39643",
+        "hotel_id": "50591"
+    },
+    {
+        "reservation_id": 29674,
+        "customer_id": "31949",
+        "hotel_id": "39652"
+    },
+    {
+        "reservation_id": 25218,
+        "customer_id": "52410",
+        "hotel_id": "33807"
+    },
+    {
+        "reservation_id": 49230,
+        "customer_id": "52410",
+        "hotel_id": "61128"
+    },
+    {
+        "reservation_id": 20854,
+        "customer_id": "44531",
+        "hotel_id": "54897"
+    },
+    {
+        "reservation_id": 27672,
+        "customer_id": "52410",
+        "hotel_id": "43250"
+    },
+    {
+        "reservation_id": 28579,
+        "customer_id": "37197",
+        "hotel_id": "41942"
+    },
+    {
+        "reservation_id": 3026,
+        "customer_id": "3111",
+        "hotel_id": "28317"
+    },
+    {
+        "reservation_id": 53173,
+        "customer_id": "31949",
+        "hotel_id": "39652"
+    }
+]
